@@ -6,9 +6,9 @@ data<-read.table(paste0(file_name,".rdata"),head=T,sep="\t")
 # Plot 2. plot frequency histogram of mutation types
 plot.freq<-function(type,num){
 	if (type == "all"){
-		barplot(summary(data$Mutation)[1:num],las=2,cex.names=0.8)
+		barplot(summary(data$Mutation)[1:num],las=2,cex.names=0.7)
 	} else {
-		barplot(summary(data$Mutation[grep(paste0("exon.*",type),data$Mutation)])[1:num],las=2,cex.names=0.8)
+		barplot(summary(data$Mutation[grep(paste0("exon.*",type),data$Mutation)])[1:num],las=2,cex.names=0.7)
 	}
 }
 # plot.freq("del",10) # an example of plot command
