@@ -1,0 +1,1695 @@
+cDNA Nomenclature	Mutation type	# records	Diagnosis	ExonDel
+c.1_11055del	InF	9	DMD	exon1-79del
+c.1_11058del	InF	1	DMD	exon1-79del
+c.1_1602del	InF	2	DMD	exon1-13del
+c.1_1992del	InF	1	DMD	exon1-16del
+c.1_2168del	Fr.	3	DMD	exon1-17del
+c.1_264del	InF	1	DMD	exon1-4del
+c.1_2803del	Fr.	1	DMD	exon1-21del
+c.1_31del	Fr.	11	DMD	exon1del
+c.1_4071del	InF	1	DMD	exon1-29del
+c.1_4233del	InF	2	DMD	exon1-30del
+c.1_4674del	InF	1	DMD	exon1-33del
+c.1_6290del	Fr.	2	DMD	exon1-43del
+c.1_6438del	InF	1	DMD	exon1-44del
+c.1_649del	Fr.	4	DMD	exon1-7del
+c.1_6614del	Fr.	2	DMD	exon1-45del
+c.1_6912del	InF	1	DMD	exon1-47del
+c.1_7098del	InF	1	DMD	exon1-48del
+c.1_7200del	InF	2	DMD	exon1-49del
+c.1_7542del	InF	1	DMD	exon1-51del
+c.1_9286del	Fr.	1	DMD	exon1-63del
+c.1_9361del	Fr.	1	DMD	exon1-64del
+c.1_93del	InF	1	DMD	exon1-2del
+c.1_960del	InF	1	DMD	exon1-9del
+c.32_1331del	Fr.	3	DMD	exon2-11del
+c.32_1992del	Fr.	1	DMD	exon2-16del
+c.32_2168del	Fr.	3	DMD	exon2-17del
+c.32_2803del	InF	1	DMD	exon2-21del
+c.32_4071del	Fr.	3	DMD	exon2-29del
+c.32_4233del	Fr.	1	DMD	exon2-30del
+c.32_5448del	Fr.	1	DMD	exon2-38del
+c.32_6438del	Fr.	1	DMD	exon2-44del
+c.32_8217del	Fr.	1	DMD	exon2-55del
+c.32_831del	Fr.	1	DMD	exon2-8del
+c.32_9084del	Fr.	1	DMD	exon2-60del
+c.32_93del	Fr.	1	DMD	exon2del
+c.64_6290del	Fr.	1	DMD	exon2-43del
+c.94_1331del	Fr.	18	DMD	exon3-11del
+c.94_14823del	InF	1	DMD	exon3-79del
+c.94_1482del	InF	8	DMD	exon3-12del
+c.94_1602del	InF	10	DMD	exon3-13del
+c.94_1812del	InF	1	DMD	exon3-15del
+c.94_186del	InF	5	DMD	exon3del
+c.94_2168del	Fr.	13	DMD	exon3-17del
+c.94_2292del	InF	7	DMD	exon3-18del
+c.94_2380del	Fr.	11	DMD	exon3-19del
+c.94_2622del	InF	1	DMD	exon3-20del
+c.94_264del	InF	5	DMD	exon3-4del
+c.94_2803del	Fr.	3	DMD	exon3-21del
+c.94_2949del	InF	3	DMD	exon3-22del
+c.94_3162del	InF	2	DMD	exon3-23del
+c.94_3786del	InF	2	DMD	exon3-27del
+c.94_4071del	InF	6	DMD	exon3-29del
+c.94_4233del	InF	4	DMD	exon3-30del
+c.94_4674del	InF	3	DMD	exon3-33del
+c.94_4845del	InF	4	DMD	exon3-34del
+c.94_5154del	InF	2	DMD	exon3-36del
+c.94_5225del	Fr.	1	DMD	exon3-37del
+c.94_530del	Fr.	22	DMD	exon3-6del
+c.94_5325del	InF	2	DMD	exon3-37del
+c.94_5922del	InF	4	DMD	exon3-41del
+c.94_6117del	InF	1	DMD	exon3-42del
+c.94_6290del	Fr.	6	DMD	exon3-43del
+c.94_6438del	InF	14	DMD	exon3-44del
+c.94_649del	Fr.	86	DMD	exon3-7del
+c.94_6912del	InF	2	DMD	exon3-47del
+c.94_7098del	InF	1	DMD	exon3-48del
+c.94_7200del	InF	2	DMD	exon3-49del
+c.94_7309del	Fr.	4	DMD	exon3-50del
+c.94_8027del	Fr.	2	DMD	exon3-54del
+c.94_8217del	InF	2	DMD	exon3-55del
+c.94_831del	InF	2	DMD	exon3-8del
+c.187_1331del	Fr.	1	DMD	exon4-11del
+c.187_1602del	InF	4	DMD	exon4-13del
+c.187_1812del	InF	1	DMD	exon4-15del
+c.187_2168del	Fr.	2	DMD	exon4-17del
+c.187_2380del	Fr.	1	DMD	exon4-19del
+c.187_264del	InF	1	DMD	exon4del
+c.187_2803del	Fr.	1	DMD	exon4-21del
+c.187_3603del	InF	1	DMD	exon4-26del
+c.187_3921del	InF	1	DMD	exon4-28del
+c.187_530del	Fr.	3	DMD	exon4-6del
+c.187_6438del	InF	1	DMD	exon4-44del
+c.187_649del	Fr.	3	DMD	exon4-7del
+c.187_831del	InF	1	DMD	exon4-8del
+c.229_2380del	Fr.	1	DMD	exon4-19del
+c.244_2380del	Fr.	1	DMD	exon4-19del
+c.265_10553del	Fr.	1	DMD	exon5-74del
+c.265_1331del	Fr.	4	DMD	exon5-11del
+c.265_1602del	InF	2	DMD	exon5-13del
+c.265_1812del	InF	1	DMD	exon5-15del
+c.265_1992del	InF	1	DMD	exon5-16del
+c.265_2168del	Fr.	7	DMD	exon5-17del
+c.265_2292del	InF	2	DMD	exon5-18del
+c.265_357del	InF	2	DMD	exon5del
+c.265_4071del	InF	1	DMD	exon5-29del
+c.265_6117del	InF	3	DMD	exon5-42del
+c.265_6290del	Fr.	2	DMD	exon5-43del
+c.265_6438del	InF	2	DMD	exon5-44del
+c.265_649del	Fr.	40	DMD	exon5-7del
+c.265_6912del	InF	1	DMD	exon5-47del
+c.265_7098del	InF	1	DMD	exon5-48del
+c.265_960del	InF	1	DMD	exon5-9del
+c.358_1149del	InF	1	DMD	exon6-10del
+c.358_1331del	Fr.	1	DMD	exon6-11del
+c.358_1482del	InF	2	DMD	exon6-12del
+c.358_1602del	InF	2	DMD	exon6-13del
+c.358_1704del	InF	1	DMD	exon6-14del
+c.358_4071del	InF	1	DMD	exon6-29del
+c.358_4233del	InF	1	DMD	exon6-30del
+c.358_530del	Fr.	16	DMD	exon6del
+c.358_6117del	InF	1	DMD	exon6-42del
+c.358_6290del	Fr.	1	DMD	exon6-43del
+c.358_649del	Fr.	9	DMD	exon6-7del
+c.358_7309del	Fr.	1	DMD	exon6-50del
+c.531_1149del	Fr.	1	DMD	exon7-10del
+c.531_1331del	InF	2	DMD	exon7-11del
+c.531_1602del	Fr.	2	DMD	exon7-13del
+c.531_2292del	Fr.	2	DMD	exon7-18del
+c.531_3603del	Fr.	1	DMD	exon7-26del
+c.531_4071del	Fr.	1	DMD	exon7-29del
+c.531_649del	Fr.	19	DMD	exon7del
+c.531_831del	Fr.	1	DMD	exon7-8del
+c.650_1149del	Fr.	1	DMD	exon8-10del
+c.650_1331del	Fr.	25	DMD	exon8-11del
+c.650_1482del	Fr.	13	DMD	exon8-12del
+c.650_1602del	Fr.	26	DMD	exon8-13del
+c.650_1812del	Fr.	3	DMD	exon8-15del
+c.650_1992del	Fr.	14	DMD	exon8-16del
+c.650_2168del	Fr.	12	DMD	exon8-17del
+c.650_2292del	Fr.	6	DMD	exon8-18del
+c.650_2380del	InF	5	DMD	exon8-19del
+c.650_2622del	Fr.	6	DMD	exon8-20del
+c.650_2803del	InF	2	DMD	exon8-21del
+c.650_3162del	Fr.	3	DMD	exon8-23del
+c.650_3276del	Fr.	1	DMD	exon8-24del
+c.650_3432del	Fr.	2	DMD	exon8-25del
+c.650_3603del	Fr.	2	DMD	exon8-26del
+c.650_3786del	Fr.	4	DMD	exon8-27del
+c.650_3921del	Fr.	1	DMD	exon8-28del
+c.650_4071del	Fr.	6	DMD	exon8-29del
+c.650_4233del	Fr.	5	DMD	exon8-30del
+c.650_4344del	Fr.	1	DMD	exon8-31del
+c.650_4518del	Fr.	1	DMD	exon8-32del
+c.650_4674del	Fr.	4	DMD	exon8-33del
+c.650_4845del	Fr.	1	DMD	exon8-34del
+c.650_5325del	Fr.	2	DMD	exon8-37del
+c.650_5448del	Fr.	1	DMD	exon8-38del
+c.650_5586del	Fr.	1	DMD	exon8-39del
+c.650_5739del	Fr.	1	DMD	exon8-40del
+c.650_5922del	Fr.	3	DMD	exon8-41del
+c.650_5992del	InF	1	DMD	exon8-42del
+c.650_6117del	Fr.	2	DMD	exon8-42del
+c.650_6290del	Fr.	8	DMD	exon8-43del
+c.650_6438del	Fr.	7	DMD	exon8-44del
+c.650_6614del	Fr.	1	DMD	exon8-45del
+c.650_6912del	Fr.	1	DMD	exon8-47del
+c.650_7309del	InF	1	DMD	exon8-50del
+c.650_8217del	Fr.	1	DMD	exon8-55del
+c.650_831del	Fr.	9	DMD	exon8del
+c.650_851del	Fr.	2	DMD	exon8-9del
+c.650_960del	Fr.	42	DMD	exon8-9del
+c.650_985del	InF	1	DMD	exon8-10del
+c.832_1602del	InF	1	DMD	exon9-13del
+c.832_4845del	InF	1	DMD	exon9-34del
+c.832_6438del	InF	1	DMD	exon9-44del
+c.832_960del	InF	3	DMD	exon9del
+c.961_1149del	InF	1	DMD	exon10del
+c.961_1331del	Fr.	24	DMD	exon10-11del
+c.961_1482del	InF	1	DMD	exon10-12del
+c.961_1602del	InF	1	DMD	exon10-13del
+c.961_1812del	InF	1	DMD	exon10-15del
+c.961_2168del	Fr.	3	DMD	exon10-17del
+c.961_2803del	Fr.	1	DMD	exon10-21del
+c.961_4071del	InF	1	DMD	exon10-29del
+c.961_5922del	InF	1	DMD	exon10-41del
+c.961_6117del	InF	3	DMD	exon10-42del
+c.961_6290del	Fr.	7	DMD	exon10-43del
+c.961_6438del	InF	7	DMD	exon10-44del
+c.961_6614del	Fr.	1	DMD	exon10-45del
+c.961_6912del	InF	1	DMD	exon10-47del
+c.961_7098del	InF	1	DMD	exon10-48del
+c.961_9084del	InF	1	DMD	exon10-60del
+c.1150_1331del	Fr.	1	DMD	exon11del
+c.1150_1602del	InF	1	DMD	exon11-13del
+c.1150_6438del	InF	1	DMD	exon11-44del
+c.1332_1482del	Fr.	14	DMD	exon12del
+c.1332_1602del	Fr.	8	DMD	exon12-13del
+c.1332_1620del	Fr.	2	DMD	exon12-14del
+c.1332_1812del	Fr.	1	DMD	exon12-15del
+c.1332_1992del	Fr.	4	DMD	exon12-16del
+c.1332_2168del	InF	1	DMD	exon12-17del
+c.1332_2292del	Fr.	1	DMD	exon12-18del
+c.1332_2380del	Fr.	4	DMD	exon12-19del
+c.1332_2803del	Fr.	3	DMD	exon12-21del
+c.1332_2949del	Fr.	3	DMD	exon12-22del
+c.1332_3162del	Fr.	1	DMD	exon12-23del
+c.1332_3432del	Fr.	4	DMD	exon12-25del
+c.1332_3786del	Fr.	1	DMD	exon12-27del
+c.1332_3921del	Fr.	2	DMD	exon12-28del
+c.1332_4071del	Fr.	6	DMD	exon12-29del
+c.1332_4233del	Fr.	3	DMD	exon12-30del
+c.1332_4344del	Fr.	1	DMD	exon12-31del
+c.1332_4518del	Fr.	2	DMD	exon12-32del
+c.1332_4674del	Fr.	1	DMD	exon12-33del
+c.1332_4845del	Fr.	1	DMD	exon12-34del
+c.1332_5325del	Fr.	2	DMD	exon12-37del
+c.1332_5448del	Fr.	1	DMD	exon12-38del
+c.1332_5922del	Fr.	4	DMD	exon12-41del
+c.1332_6117del	Fr.	2	DMD	exon12-42del
+c.1332_6290del	InF	3	DMD	exon12-43del
+c.1332_6438del	Fr.	6	DMD	exon12-44del
+c.1332_7309del	Fr.	1	DMD	exon12-50del
+c.1332_7542del	Fr.	2	DMD	exon12-51del
+c.1332_7872del	Fr.	1	DMD	exon12-53del
+c.1332_8217del	Fr.	1	DMD	exon12-55del
+c.1483_1602del	InF	5	DMD	exon13del
+c.1483_2168del	Fr.	8	DMD	exon13-17del
+c.1483_2380del	Fr.	4	DMD	exon13-19del
+c.1483_5922del	InF	1	DMD	exon13-41del
+c.1483_6117del	InF	1	DMD	exon13-42del
+c.1483_6290del	Fr.	4	DMD	exon13-43del
+c.1483_6438del	InF	1	DMD	exon13-44del
+c.1483_6912del	InF	2	DMD	exon13-47del
+c.1603_2168del	Fr.	11	DMD	exon14-17del
+c.1603_2380del	Fr.	3	DMD	exon14-19del
+c.1603_3603del	InF	1	DMD	exon14-26del
+c.1603_6290del	Fr.	2	DMD	exon14-43del
+c.1813_2168del	Fr.	5	DMD	exon16-17del
+c.1813_2380del	Fr.	2	DMD	exon16-19del
+c.1813_6290del	Fr.	1	DMD	exon16-43del
+c.1813_6438del	InF	1	DMD	exon16-44del
+c.1813_9286del	Fr.	1	DMD	exon16-63del
+c.1993_2168del	Fr.	14	DMD	exon17del
+c.1993_2380del	Fr.	4	DMD	exon17-19del
+c.1993_2622del	InF	2	DMD	exon17-20del
+c.1993_2803del	Fr.	4	DMD	exon17-21del
+c.1993_3276del	InF	1	DMD	exon17-24del
+c.1993_6290del	Fr.	5	DMD	exon17-43del
+c.2169_2292del	Fr.	16	DMD	exon18del
+c.2169_2379del	Fr.	1	DMD	exon18-19del
+c.2169_2380del	Fr.	2	DMD	exon18-19del
+c.2169_2622del	Fr.	4	DMD	exon18-20del
+c.2169_2803del	Fr.	1	DMD	exon18-21del
+c.2169_2949del	Fr.	3	DMD	exon18-22del
+c.2169_3162del	Fr.	1	DMD	exon18-23del
+c.2169_3432del	Fr.	2	DMD	exon18-25del
+c.2169_3603del	Fr.	5	DMD	exon18-26del
+c.2169_3786del	Fr.	2	DMD	exon18-27del
+c.2169_4071del	Fr.	1	DMD	exon18-29del
+c.2169_4233del	Fr.	5	DMD	exon18-30del
+c.2169_4518del	Fr.	1	DMD	exon18-32del
+c.2169_4674del	Fr.	2	DMD	exon18-33del
+c.2169_4845del	Fr.	5	DMD	exon18-34del
+c.2169_5325del	Fr.	3	DMD	exon18-37del
+c.2169_5586del	Fr.	4	DMD	exon18-39del
+c.2169_5822del	InF	1	DMD	exon18-41del
+c.2169_5922del	Fr.	6	DMD	exon18-41del
+c.2169_6117del	Fr.	3	DMD	exon18-42del
+c.2169_6290del	InF	1	DMD	exon18-43del
+c.2169_6438del	Fr.	11	DMD	exon18-44del
+c.2169_7098del	Fr.	1	DMD	exon18-48del
+c.2293_11058del	InF	1	DMD	exon19-79del
+c.2293_2379del	InF	3	DMD	exon19del
+c.2293_2380del	Fr.	17	DMD	exon19del
+c.2293_2803del	Fr.	4	DMD	exon19-21del
+c.2293_3432del	InF	1	DMD	exon19-25del
+c.2293_6290del	Fr.	4	DMD	exon19-43del
+c.2293_6438del	InF	2	DMD	exon19-44del
+c.2293_7309del	Fr.	4	DMD	exon19-50del
+c.2293_7542del	InF	1	DMD	exon19-51del
+c.2381_2622del	Fr.	1	DMD	exon20del
+c.2381_3432del	Fr.	3	DMD	exon20-25del
+c.2381_4071del	Fr.	2	DMD	exon20-29del
+c.2381_5586del	Fr.	1	DMD	exon20-39del
+c.2381_5922del	Fr.	3	DMD	exon20-41del
+c.2381_6117del	Fr.	1	DMD	exon20-42del
+c.2381_6290del	Fr.	1	DMD	exon20-43del
+c.2381_6438del	Fr.	2	DMD	exon20-44del
+c.2381_6912del	Fr.	2	DMD	exon20-47del
+c.2623_2803del	Fr.	12	DMD	exon21del
+c.2623_2949del	InF	1	DMD	exon21-22del
+c.2623_6290del	Fr.	2	DMD	exon21-43del
+c.2804_3276del	Fr.	2	DMD	exon22-24del
+c.2804_3603del	Fr.	1	DMD	exon22-26del
+c.2804_3786del	Fr.	1	DMD	exon22-27del
+c.2804_3921del	Fr.	1	DMD	exon22-28del
+c.2804_4071del	Fr.	9	DMD	exon22-29del
+c.2804_4233del	Fr.	2	DMD	exon22-30del
+c.2804_4845del	Fr.	7	DMD	exon22-34del
+c.2804_5922del	Fr.	5	DMD	exon22-41del
+c.2804_6117del	Fr.	2	DMD	exon22-42del
+c.2804_6290del	Fr.	5	DMD	exon22-43del
+c.2804_6438del	Fr.	5	DMD	exon22-44del
+c.2804_6912del	Fr.	1	DMD	exon22-47del
+c.2950_3432del	InF	1	DMD	exon23-25del
+c.2950_6290del	Fr.	1	DMD	exon23-43del
+c.3163_6290del	Fr.	1	DMD	exon24-43del
+c.3277_6290del	Fr.	1	DMD	exon25-43del
+c.3433_6290del	Fr.	2	DMD	exon26-43del
+c.3433_6614del	Fr.	1	DMD	exon26-45del
+c.3604_6290del	Fr.	4	DMD	exon27-43del
+c.3787_6438del	InF	2	DMD	exon28-44del
+c.3922_6290del	Fr.	3	DMD	exon29-43del
+c.3922_6614del	Fr.	1	DMD	exon29-45del
+c.4072_6290del	Fr.	4	DMD	exon30-43del
+c.4072_7309del	Fr.	1	DMD	exon30-50del
+c.4234_4344del	InF	1	DMD	exon31del
+c.4234_6290del	Fr.	7	DMD	exon31-43del
+c.4234_6614del	Fr.	2	DMD	exon31-45del
+c.4234_7309del	Fr.	1	DMD	exon31-50del
+c.4345_6290del	Fr.	3	DMD	exon32-43del
+c.4519_6290del	Fr.	2	DMD	exon33-43del
+c.4519_7309del	Fr.	1	DMD	exon33-50del
+c.4675_7309del	Fr.	1	DMD	exon34-50del
+c.4675_7542del	InF	1	DMD	exon34-51del
+c.4846_6117del	InF	1	DMD	exon35-42del
+c.4846_6290del	Fr.	6	DMD	exon35-43del
+c.4846_6438del	InF	1	DMD	exon35-44del
+c.4846_6614del	Fr.	1	DMD	exon35-45del
+c.4846_7309del	Fr.	1	DMD	exon35-50del
+c.5026_6290del	Fr.	1	DMD	exon36-43del
+c.5026_6762del	InF	1	DMD	exon36-46del
+c.5155_5325del	InF	1	DMD	exon37del
+c.5326_5922del	InF	1	DMD	exon38-41del
+c.5326_6290del	Fr.	5	DMD	exon38-43del
+c.5326_8027del	Fr.	1	DMD	exon38-54del
+c.5449_6290del	Fr.	1	DMD	exon39-43del
+c.5449_9224del	Fr.	1	DMD	exon39-62del
+c.5449_9361del	Fr.	1	DMD	exon39-64del
+c.5587_6290del	Fr.	4	DMD	exon40-43del
+c.5587_7200del	InF	1	DMD	exon40-49del
+c.5740_5922del	InF	1	DMD	exon41del
+c.5740_6290del	Fr.	5	DMD	exon41-43del
+c.5740_6614del	Fr.	1	DMD	exon41-45del
+c.5823_6290del	InF	1	DMD	exon41-43del
+c.5923_10553del	Fr.	1	DMD	exon42-74del
+c.5923_6117del	InF	2	DMD	exon42del
+c.5923_6290del	Fr.	21	DMD	exon42-43del
+c.5923_6438del	InF	2	DMD	exon42-44del
+c.5923_6614del	Fr.	5	DMD	exon42-45del
+c.5923_6762del	InF	1	DMD	exon42-46del
+c.5923_7309del	Fr.	1	DMD	exon42-50del
+c.5923_7660del	Fr.	1	DMD	exon42-52del
+c.6118_6290del	Fr.	36	DMD	exon43del
+c.6118_6614del	Fr.	4	DMD	exon43-45del
+c.6118_6912del	InF	1	DMD	exon43-47del
+c.6118_7309del	Fr.	5	DMD	exon43-50del
+c.6118_7660del	Fr.	3	DMD	exon43-52del
+c.6118_7872del	InF	1	DMD	exon43-53del
+c.6291_6438del	Fr.	177	DMD	exon44del
+c.6291_6912del	Fr.	13	DMD	exon44-47del
+c.6291_7098del	Fr.	3	DMD	exon44-48del
+c.6291_7200del	Fr.	4	DMD	exon44-49del
+c.6291_7309del	Fr.	7	DMD	exon44-50del
+c.6291_7542del	Fr.	8	DMD	exon44-51del
+c.6291_7660del	Fr.	5	DMD	exon44-52del
+c.6291_7872del	Fr.	3	DMD	exon44-53del
+c.6291_8027del	InF	1	DMD	exon44-54del
+c.6291_8217del	Fr.	3	DMD	exon44-55del
+c.6291_9084del	Fr.	1	DMD	exon44-60del
+c.6439_10394del	Fr.	1	DMD	exon45-73del
+c.6439_10921del	Fr.	2	DMD	exon45-76del
+c.6439_11055del	InF	3	DMD	exon45-79del
+c.6439_6614del	Fr.	317	DMD	exon45del
+c.6439_6641del	Fr.	1	DMD	exon45-46del
+c.6439_6762del	InF	8	DMD	exon45-46del
+c.6439_6912del	InF	16	DMD	exon45-47del
+c.6439_7098del	InF	10	DMD	exon45-48del
+c.6439_7200del	InF	8	DMD	exon45-49del
+c.6439_7309del	Fr.	268	DMD	exon45-50del
+c.6439_7542del	InF	12	DMD	exon45-51del
+c.6439_7660del	Fr.	224	DMD	exon45-52del
+c.6439_7872del	InF	9	DMD	exon45-53del
+c.6439_8027del	Fr.	69	DMD	exon45-54del
+c.6439_8217del	InF	2	DMD	exon45-55del
+c.6439_8390del	Fr.	4	DMD	exon45-56del
+c.6439_8547del	InF	4	DMD	exon45-57del
+c.6439_9224del	Fr.	2	DMD	exon45-62del
+c.6615_11055del	Fr.	1	DMD	exon46-79del
+c.6615_6762del	Fr.	11	DMD	exon46del
+c.6615_6912del	Fr.	158	DMD	exon46-47del
+c.6615_7098del	Fr.	88	DMD	exon46-48del
+c.6615_7200del	Fr.	43	DMD	exon46-49del
+c.6615_7309del	Fr.	113	DMD	exon46-50del
+c.6615_7542del	Fr.	100	DMD	exon46-51del
+c.6615_7660del	Fr.	64	DMD	exon46-52del
+c.6615_7872del	Fr.	18	DMD	exon46-53del
+c.6615_8217del	Fr.	24	DMD	exon46-55del
+c.6615_8668del	Fr.	1	DMD	exon46-58del
+c.6763_6912del	InF	12	DMD	exon47del
+c.6763_7098del	InF	12	DMD	exon47-48del
+c.6763_7200del	InF	2	DMD	exon47-49del
+c.6763_7309del	Fr.	17	DMD	exon47-50del
+c.6763_7542del	InF	7	DMD	exon47-51del
+c.6763_7660del	Fr.	18	DMD	exon47-52del
+c.6763_7872del	InF	1	DMD	exon47-53del
+c.6763_8027del	Fr.	1	DMD	exon47-54del
+c.6913_7098del	InF	5	DMD	exon48del
+c.6913_7200del	InF	4	DMD	exon48-49del
+c.6913_7309del	Fr.	250	DMD	exon48-50del
+c.6913_7542del	InF	6	DMD	exon48-51del
+c.6913_7660del	Fr.	159	DMD	exon48-52del
+c.6913_7872del	InF	4	DMD	exon48-53del
+c.6913_8027del	Fr.	35	DMD	exon48-54del
+c.6913_8390del	Fr.	3	DMD	exon48-56del
+c.6913_8668del	Fr.	1	DMD	exon48-58del
+c.6913_9361del	Fr.	1	DMD	exon48-64del
+c.7099_11055del	InF	1	DMD	exon49-79del
+c.7099_7200del	InF	3	DMD	exon49del
+c.7099_7309del	Fr.	192	DMD	exon49-50del
+c.7099_7542del	InF	3	DMD	exon49-51del
+c.7099_7660del	Fr.	110	DMD	exon49-52del
+c.7099_7872del	InF	1	DMD	exon49-53del
+c.7099_8027del	Fr.	32	DMD	exon49-54del
+c.7099_8547del	InF	1	DMD	exon49-57del
+c.7099_9163del	Fr.	1	DMD	exon49-61del
+c.7201_7308del	InF	1	DMD	exon50del
+c.7201_7309del	Fr.	110	DMD	exon50del
+c.7201_7542del	InF	2	DMD	exon50-51del
+c.7201_7660del	Fr.	63	DMD	exon50-52del
+c.7201_7872del	InF	4	DMD	exon50-53del
+c.7201_8027del	Fr.	9	DMD	exon50-54del
+c.7201_8390del	Fr.	1	DMD	exon50-56del
+c.7201_8668del	Fr.	1	DMD	exon50-58del
+c.7310_10553del	Fr.	1	DMD	exon51-74del
+c.7310_7542del	Fr.	187	DMD	exon51del
+c.7310_7660del	InF	13	DMD	exon51-52del
+c.7310_7872del	Fr.	31	DMD	exon51-53del
+c.7310_8027del	Fr.	25	DMD	exon51-54del
+c.7310_8217del	Fr.	49	DMD	exon51-55del
+c.7310_8390del	Fr.	2	DMD	exon51-56del
+c.7310_8937del	Fr.	2	DMD	exon51-59del
+c.7310_9084del	Fr.	2	DMD	exon51-60del
+c.7310_9224del	Fr.	1	DMD	exon51-62del
+c.7543_11055del	InF	1	DMD	exon52-79del
+c.7543_7660del	Fr.	142	DMD	exon52del
+c.7543_7872del	InF	1	DMD	exon52-53del
+c.7543_8027del	Fr.	21	DMD	exon52-54del
+c.7543_8937del	InF	1	DMD	exon52-59del
+c.7543_9224del	Fr.	1	DMD	exon52-62del
+c.7543_9286del	Fr.	1	DMD	exon52-63del
+c.7661_10223del	Fr.	1	DMD	exon53-70del
+c.7661_11055del	Fr.	1	DMD	exon53-79del
+c.7661_7872del	Fr.	26	DMD	exon53del
+c.7661_8027del	Fr.	24	DMD	exon53-54del
+c.7661_8217del	Fr.	36	DMD	exon53-55del
+c.7661_8390del	Fr.	4	DMD	exon53-56del
+c.7661_8547del	Fr.	1	DMD	exon53-57del
+c.7661_9084del	Fr.	3	DMD	exon53-60del
+c.7873_8027del	Fr.	15	DMD	exon54del
+c.8028_11055del	Fr.	1	DMD	exon55-79del
+c.8028_8217del	Fr.	23	DMD	exon55del
+c.8028_8937del	Fr.	1	DMD	exon55-59del
+c.8028_9084del	Fr.	2	DMD	exon55-60del
+c.8028_9163del	Fr.	1	DMD	exon55-61del
+c.8218_10921del	Fr.	1	DMD	exon56-76del
+c.8218_11058del	InF	1	DMD	exon56-79del
+c.8218_8390del	Fr.	2	DMD	exon56del
+c.8218_9084del	InF	1	DMD	exon56-60del
+c.8218_9163del	Fr.	2	DMD	exon56-61del
+c.8218_9224del	Fr.	4	DMD	exon56-62del
+c.8218_9361del	Fr.	1	DMD	exon56-64del
+c.8391_8547del	Fr.	2	DMD	exon57del
+c.8391_8937del	Fr.	1	DMD	exon57-59del
+c.8548_8668del	Fr.	5	DMD	exon58del
+c.8548_9163del	Fr.	2	DMD	exon58-61del
+c.8548_9224del	Fr.	2	DMD	exon58-62del
+c.8548_9286del	Fr.	1	DMD	exon58-63del
+c.8938_11055del	InF	1	DMD	exon60-79del
+c.8938_9084del	InF	5	DMD	exon60del
+c.8938_9224del	Fr.	1	DMD	exon60-62del
+c.8938_9286del	Fr.	1	DMD	exon60-63del
+c.9085_10086del	InF	3	DMD	exon61-69del
+c.9085_10553del	Fr.	1	DMD	exon61-74del
+c.9085_10921del	Fr.	1	DMD	exon61-76del
+c.9085_11055del	InF	1	DMD	exon61-79del
+c.9085_11058del	InF	1	DMD	exon61-79del
+c.9085_9163del	Fr.	8	DMD	exon61del
+c.9085_9224del	Fr.	5	DMD	exon61-62del
+c.9085_9286del	Fr.	3	DMD	exon61-63del
+c.9085_9807del	InF	2	DMD	exon61-67del
+c.9164_9224del	Fr.	5	DMD	exon62del
+c.9225_11046del	Fr.	2	DMD	exon63-78del
+c.9225_11055del	Fr.	2	DMD	exon63-79del
+c.9225_13749del	Fr.	1	DMD	exon63-79del
+c.9225_9286del	Fr.	6	DMD	exon63del
+c.9225_9361del	Fr.	1	DMD	exon63-64del
+c.9287_9361del	InF	3	DMD	exon64del
+c.9287_9807del	Fr.	1	DMD	exon64-67del
+c.9362_10553del	Fr.	1	DMD	exon65-74del
+c.9362_9563del	Fr.	4	DMD	exon65del
+c.9362_9807del	Fr.	3	DMD	exon65-67del
+c.9564_9807del	Fr.	1	DMD	exon66-67del
+c.9650_9807del	Fr.	1	DMD	exon67del
+c.9808_10223del	Fr.	1	DMD	exon68-70del
+c.9808_10553del	Fr.	1	DMD	exon68-74del
+c.9808_10921del	Fr.	1	DMD	exon68-76del
+c.9808_11014del	Fr.	1	DMD	exon68-77del
+c.9808_9974del	Fr.	1	DMD	exon68del
+c.10087_10262del	Fr.	2	DMD	exon70-71del
+cDNA Nomenclature	Mutation type	# records	Diagnosis	ExonDup
+c.1_93dup	InF	1	DMD	exon1-2dup
+c.32_93dup		90	DMD	exon2dup
+c.94_186dup	InF	1	DMD	exon3dup
+c.32_264dup	Fr.	4	DMD	exon2-4dup
+c.94_264dup	InF	6	DMD	exon3-4dup
+c.32_357dup	Fr.	3	DMD	exon2-5dup
+c.94_357dup	InF	3	DMD	exon3-5dup
+c.32_530dup	Fr.	1	DMD	exon2-6dup
+c.358_530dup	Fr.	1	DMD	exon6dup
+c.94_530dup	Fr.	5	DMD	exon3-6dup
+c.187_649dup	Fr.	3	DMD	exon4-7dup
+c.265_649dup	Fr.	12	DMD	exon5-7dup
+c.32_649dup	Fr.	7	DMD	exon2-7dup
+c.358_649dup	Fr.	5	DMD	exon6-7dup
+c.531_649dup	Fr.	6	DMD	exon7dup
+c.94_649dup	Fr.	43	DMD	exon3-7dup
+c.96_649dup		1	DMD	exon3-7dup
+c.32_960dup	Fr.	3	DMD	exon2-9dup
+c.650_960dup	Fr.	33	DMD	exon8-9dup
+c.94_960dup	InF	6	DMD	exon3-9dup
+c.265_1149dup	InF	1	DMD	exon5-10dup
+c.650_1149dup	Fr.	1	DMD	exon8-10dup
+c.1150_1331dup	Fr.	1	DMD	exon11dup
+c.265_1331dup	Fr.	1	DMD	exon5-11dup
+c.32_1331dup	Fr.	2	DMD	exon2-11dup
+c.650_1331dup	Fr.	22	DMD	exon8-11dup
+c.94_1331dup	Fr.	2	DMD	exon3-11dup
+c.961_1331dup	Fr.	9	DMD	exon10-11dup
+c.1335ins680		1	DMD	exondup
+c.1332_1482dup	Fr.	8	DMD	exon12dup
+c.650_1482dup	Fr.	10	DMD	exon8-12dup
+c.1332_1602dup	Fr.	4	DMD	exon12-13dup
+c.32_1602dup	Fr.	2	DMD	exon2-13dup
+c.650_1602dup	Fr.	7	DMD	exon8-13dup
+c.961_1602dup	InF	1	DMD	exon10-13dup
+c.1332_1812dup	Fr.	1	DMD	exon12-15dup
+c.32_1812dup	Fr.	1	DMD	exon2-15dup
+c.531_1812dup	Fr.	2	DMD	exon7-15dup
+c.650_1812dup	Fr.	2	DMD	exon8-15dup
+c.1332_1992dup	Fr.	2	DMD	exon12-16dup
+c.32_1992dup	Fr.	5	DMD	exon2-16dup
+c.650_1992dup	Fr.	4	DMD	exon8-16dup
+c.1483_2168dup	Fr.	5	DMD	exon13-17dup
+c.1603_2168dup	Fr.	7	DMD	exon14-17dup
+c.1813_2168dup	Fr.	4	DMD	exon16-17dup
+c.1993_2168dup	Fr.	14	DMD	exon17dup
+c.265_2168dup	Fr.	1	DMD	exon5-17dup
+c.32_2168dup	Fr.	2	DMD	exon2-17dup
+c.650_2168dup	Fr.	10	DMD	exon8-17dup
+c.94_2168dup	Fr.	2	DMD	exon3-17dup
+c.961_2168dup	Fr.	5	DMD	exon10-17dup
+c.2169_2292dup	Fr.	4	DMD	exon18dup
+c.265_2292dup	InF	1	DMD	exon5-18dup
+c.32_2292dup	Fr.	1	DMD	exon2-18dup
+c.650_2292dup	Fr.	2	DMD	exon8-18dup
+c.94_2292dup	InF	1	DMD	exon3-18dup
+c.961_2292dup	InF	1	DMD	exon10-18dup
+c.1993_2380dup	Fr.	3	DMD	exon17-19dup
+c.2169_2380dup	Fr.	2	DMD	exon18-19dup
+c.2293_2380dup	Fr.	2	DMD	exon19dup
+c.265_2380dup	Fr.	1	DMD	exon5-19dup
+c.94_2380dup	Fr.	1	DMD	exon3-19dup
+c.961_2380dup	Fr.	2	DMD	exon10-19dup
+c.2381_2622dup	Fr.	1	DMD	exon20dup
+c.94_2622dup	InF	1	DMD	exon3-20dup
+c.1332_2803dup	Fr.	1	DMD	exon12-21dup
+c.1483_2803dup	Fr.	2	DMD	exon13-21dup
+c.1993_2803dup	Fr.	1	DMD	exon17-21dup
+c.2293_2803dup	Fr.	1	DMD	exon19-21dup
+c.2623_2803dup	Fr.	2	DMD	exon21dup
+c.265_2803dup	Fr.	1	DMD	exon5-21dup
+c.94_2803dup	Fr.	1	DMD	exon3-21dup
+c.961_2803dup	Fr.	2	DMD	exon10-21dup
+c.1603_2949dup	InF	1	DMD	exon14-22dup
+c.2381_2949dup	Fr.	1	DMD	exon20-22dup
+c.2381_3162dup	Fr.	1	DMD	exon20-23dup
+c.2804_3162dup	Fr.	2	DMD	exon22-23dup
+c.650_3162dup	Fr.	1	DMD	exon8-23dup
+c.1483_3276dup	InF	1	DMD	exon13-24dup
+c.1993_3432dup	InF	1	DMD	exon17-25dup
+c.2169_3432dup	Fr.	2	DMD	exon18-25dup
+c.2804_3432dup	Fr.	1	DMD	exon22-25dup
+c.1332_3603dup	Fr.	1	DMD	exon12-26dup
+c.2169_3603dup	Fr.	1	DMD	exon18-26dup
+c.94_3603dup	InF	3	DMD	exon3-26dup
+c.3772ins25	Fr.	1	DMD	exondup
+c.1332_3786dup	Fr.	1	DMD	exon12-27dup
+c.2169_3786dup	Fr.	2	DMD	exon18-27dup
+c.3604_3786dup	InF	1	DMD	exon27dup
+c.2169_3921dup	Fr.	1	DMD	exon18-28dup
+c.2169_4071dup	Fr.	5	DMD	exon18-29dup
+c.2293_4071dup	InF	1	DMD	exon19-29dup
+c.2623_4071dup	InF	1	DMD	exon21-29dup
+c.2804_4071dup	Fr.	1	DMD	exon22-29dup
+c.3163_4071dup	InF	1	DMD	exon24-29dup
+c.531_4071dup	Fr.	1	DMD	exon7-29dup
+c.650_4071dup	Fr.	3	DMD	exon8-29dup
+c.94_4071dup	InF	1	DMD	exon3-29dup
+c.2169_4233dup	Fr.	2	DMD	exon18-30dup
+c.2293_4233dup	InF	2	DMD	exon19-30dup
+c.32_4233dup	Fr.	2	DMD	exon2-30dup
+c.4072_4233dup	InF	1	DMD	exon30dup
+c.650_4233dup	Fr.	1	DMD	exon8-30dup
+c.650_4518dup	Fr.	1	DMD	exon8-32dup
+c.2169_4674dup	Fr.	1	DMD	exon18-33dup
+c.2293_4674dup	InF	2	DMD	exon19-33dup
+c.2804_4674dup	Fr.	1	DMD	exon22-33dup
+c.1603_4845dup	InF	1	DMD	exon14-34dup
+c.2169_4845dup	Fr.	3	DMD	exon18-34dup
+c.32_4845dup	Fr.	1	DMD	exon2-34dup
+c.4234_4845dup	InF	1	DMD	exon31-34dup
+c.94_4845dup	InF	2	DMD	exon3-34dup
+c.94_5154dup	InF	1	DMD	exon3-36dup
+c.2169_5325dup	Fr.	1	DMD	exon18-37dup
+c.1332_5448dup	Fr.	2	DMD	exon12-38dup
+c.94_5448dup	InF	1	DMD	exon3-38dup
+c.2381_5739dup	Fr.	1	DMD	exon20-40dup
+c.5587_5739dup	InF	1	DMD	exon40dup
+c.1332_5922dup	Fr.	1	DMD	exon12-41dup
+c.2169_5922dup	Fr.	1	DMD	exon18-41dup
+c.2804_5922dup	Fr.	2	DMD	exon22-41dup
+c.32_5922dup	Fr.	1	DMD	exon2-41dup
+c.650_5922dup	Fr.	2	DMD	exon8-41dup
+c.94_5922dup	InF	1	DMD	exon3-41dup
+c.2169_6117dup	Fr.	1	DMD	exon18-42dup
+c.650_6117dup	Fr.	1	DMD	exon8-42dup
+c.94_6117dup	InF	1	DMD	exon3-42dup
+c.2293_6290dup	Fr.	2	DMD	exon19-43dup
+c.3433_6290dup	Fr.	1	DMD	exon26-43dup
+c.3922_6290dup	Fr.	1	DMD	exon29-43dup
+c.5155_6290dup	Fr.	1	DMD	exon37-43dup
+c.5326_6290dup	Fr.	1	DMD	exon38-43dup
+c.5449_6290dup	Fr.	1	DMD	exon39-43dup
+c.5923_6290dup	Fr.	2	DMD	exon42-43dup
+c.6118_6290dup	Fr.	3	DMD	exon43dup
+c.94_6290dup	Fr.	1	DMD	exon3-43dup
+c.1332_6438dup	Fr.	2	DMD	exon12-44dup
+c.1483_6438dup	InF	1	DMD	exon13-44dup
+c.1603_6438dup	InF	2	DMD	exon14-44dup
+c.1813_6438dup	InF	1	DMD	exon16-44dup
+c.2169_6438dup	Fr.	4	DMD	exon18-44dup
+c.2293_6438dup	InF	1	DMD	exon19-44dup
+c.2804_6438dup	Fr.	2	DMD	exon22-44dup
+c.2950_6438dup	InF	1	DMD	exon23-44dup
+c.32_6438dup	Fr.	1	DMD	exon2-44dup
+c.4072_6438dup	InF	1	DMD	exon30-44dup
+c.6291_6438dup	Fr.	8	DMD	exon44dup
+c.650_6438dup	Fr.	1	DMD	exon8-44dup
+c.94_6438dup	InF	3	DMD	exon3-44dup
+c.5326_6614dup	Fr.	1	DMD	exon38-45dup
+c.5923_6614dup	Fr.	1	DMD	exon42-45dup
+c.6291_6614dup	InF	2	DMD	exon44-45dup
+c.6439_6614dup	Fr.	9	DMD	exon45dup
+c.6291_6912dup	Fr.	1	DMD	exon44-47dup
+c.6439_6912dup	InF	2	DMD	exon45-47dup
+c.650_6912dup	Fr.	1	DMD	exon8-47dup
+c.6615_6912dup	Fr.	7	DMD	exon46-47dup
+c.6439_7098dup	InF	2	DMD	exon45-48dup
+c.650_7098dup	Fr.	1	DMD	exon8-48dup
+c.6615_7098dup	Fr.	2	DMD	exon46-48dup
+c.6291_7200dup	Fr.	2	DMD	exon44-49dup
+c.6293_7200dup		1	DMD	exon44-49dup
+c.6439_7200dup	InF	5	DMD	exon45-49dup
+c.6913_7200dup	InF	1	DMD	exon48-49dup
+c.3787_7309dup	Fr.	1	DMD	exon28-50dup
+c.5587_7309dup	Fr.	1	DMD	exon40-50dup
+c.5923_7309dup	Fr.	1	DMD	exon42-50dup
+c.6291_7309dup	Fr.	2	DMD	exon44-50dup
+c.6439_7309dup	Fr.	4	DMD	exon45-50dup
+c.6913_7309dup	Fr.	3	DMD	exon48-50dup
+c.7099_7309dup	Fr.	8	DMD	exon49-50dup
+c.7201_7309dup	Fr.	3	DMD	exon50dup
+c.94_7309dup	Fr.	1	DMD	exon3-50dup
+c.6291_7542dup	Fr.	1	DMD	exon44-51dup
+c.6439_7542dup	InF	1	DMD	exon45-51dup
+c.650_7542dup	Fr.	1	DMD	exon8-51dup
+c.7310_7542dup	Fr.	11	DMD	exon51dup
+c.2293_7660dup	Fr.	1	DMD	exon19-52dup
+c.5923_7660dup	Fr.	2	DMD	exon42-52dup
+c.6291_7660dup	Fr.	1	DMD	exon44-52dup
+c.6439_7660dup	Fr.	3	DMD	exon45-52dup
+c.6913_7660dup	Fr.	1	DMD	exon48-52dup
+c.7201_7660dup	Fr.	2	DMD	exon50-52dup
+c.7310_7660dup	InF	2	DMD	exon51-52dup
+c.7543_7660dup	Fr.	12	DMD	exon52dup
+c.6291_7872dup	Fr.	1	DMD	exon44-53dup
+c.6439_7872dup	InF	1	DMD	exon45-53dup
+c.7661_7872dup	Fr.	4	DMD	exon53dup
+c.6439_8027dup	Fr.	3	DMD	exon45-54dup
+c.6913_8027dup	Fr.	1	DMD	exon48-54dup
+c.7201_8027dup	Fr.	1	DMD	exon50-54dup
+c.7543_8027dup	Fr.	4	DMD	exon52-54dup
+c.7661_8027dup	Fr.	2	DMD	exon53-54dup
+c.7873_8027dup	Fr.	3	DMD	exon54dup
+c.2623_8217dup	InF	1	DMD	exon21-55dup
+c.3787_8217dup	InF	1	DMD	exon28-55dup
+c.6291_8217dup	Fr.	3	DMD	exon44-55dup
+c.6439_8217dup	InF	1	DMD	exon45-55dup
+c.6615_8217dup	Fr.	2	DMD	exon46-55dup
+c.6913_8217dup	Fr.	1	DMD	exon48-55dup
+c.7201_8217dup	InF	4	DMD	exon50-55dup
+c.7310_8217dup	Fr.	3	DMD	exon51-55dup
+c.7661_8217dup	Fr.	6	DMD	exon53-55dup
+c.7873_8217dup	InF	2	DMD	exon54-55dup
+c.8028_8217dup	Fr.	4	DMD	exon55dup
+c.6913_8390dup	Fr.	2	DMD	exon48-56dup
+c.7661_8390dup	Fr.	1	DMD	exon53-56dup
+c.8218_8390dup	Fr.	3	DMD	exon56dup
+c.6913_8547dup	InF	2	DMD	exon48-57dup
+c.7201_8547dup	InF	1	DMD	exon50-57dup
+c.7543_8547dup	InF	1	DMD	exon52-57dup
+c.7661_8547dup	Fr.	2	DMD	exon53-57dup
+c.7873_8547dup	InF	1	DMD	exon54-57dup
+c.8218_8547dup	Fr.	1	DMD	exon56-57dup
+c.8760ins218 ?	Fr.	1	DMD	exondup
+c.6291_8937dup	Fr.	1	DMD	exon44-59dup
+c.6615_8937dup	Fr.	1	DMD	exon46-59dup
+c.7661_8937dup	Fr.	1	DMD	exon53-59dup
+c.7873_8937dup	InF	1	DMD	exon54-59dup
+c.8028_8937dup	Fr.	2	DMD	exon55-59dup
+c.6439_9084dup	InF	1	DMD	exon45-60dup
+c.6615_9084dup	Fr.	1	DMD	exon46-60dup
+c.7201_9084dup	InF	3	DMD	exon50-60dup
+c.7310_9084dup	Fr.	2	DMD	exon51-60dup
+c.7661_9084dup	Fr.	2	DMD	exon53-60dup
+c.7873_9084dup	InF	3	DMD	exon54-60dup
+c.8028_9084dup	Fr.	1	DMD	exon55-60dup
+c.8218_9084dup	InF	3	DMD	exon56-60dup
+c.6439_9163dup	Fr.	1	DMD	exon45-61dup
+c.6913_9163dup	Fr.	1	DMD	exon48-61dup
+c.7201_9163dup	Fr.	1	DMD	exon50-61dup
+c.7543_9163dup	Fr.	2	DMD	exon52-61dup
+c.8218_9163dup	Fr.	3	DMD	exon56-61dup
+c.8938_9163dup	Fr.	2	DMD	exon60-61dup
+c.9085_9163dup	Fr.	1	DMD	exon61dup
+c.6439_9224dup	Fr.	1	DMD	exon45-62dup
+c.7099_9224dup	Fr.	2	DMD	exon49-62dup
+c.7201_9224dup	Fr.	1	DMD	exon50-62dup
+c.7543_9224dup	Fr.	4	DMD	exon52-62dup
+c.7661_9224dup	Fr.	1	DMD	exon53-62dup
+c.8218_9224dup	Fr.	12	DMD	exon56-62dup
+c.8548_9224dup	Fr.	3	DMD	exon58-62dup
+c.8938_9224dup	Fr.	3	DMD	exon60-62dup
+c.9085_9224dup	Fr.	1	DMD	exon61-62dup
+c.9164_9224dup	Fr.	2	DMD	exon62dup
+c.2293_9286dup	Fr.	1	DMD	exon19-63dup
+c.6439_9286dup	Fr.	1	DMD	exon45-63dup
+c.6913_9286dup	Fr.	2	DMD	exon48-63dup
+c.8218_9286dup	Fr.	1	DMD	exon56-63dup
+c.9085_9286dup	Fr.	2	DMD	exon61-63dup
+c.9225_9286dup	Fr.	2	DMD	exon63dup
+c.6439_9361dup	Fr.	1	DMD	exon45-64dup
+c.9287_9361dup	InF	3	DMD	exon64dup
+c.6439_9563dup	Fr.	1	DMD	exon45-65dup
+c.6913_9563dup	Fr.	1	DMD	exon48-65dup
+c.8938_9649dup	Fr.	1	DMD	exon60-66dup
+c.6615_9807dup	Fr.	1	DMD	exon46-67dup
+c.7873_9807dup	InF	1	DMD	exon54-67dup
+c.8218_9807dup	InF	2	DMD	exon56-67dup
+c.9225_9807dup	Fr.	2	DMD	exon63-67dup
+c.9564_9807dup	Fr.	1	DMD	exon66-67dup
+c.7310_10086dup	Fr.	1	DMD	exon51-69dup
+c.7661_10223dup	Fr.	1	DMD	exon53-70dup
+c.8218_10223dup	Fr.	1	DMD	exon56-70dup
+c.7310_10262dup	Fr.	1	DMD	exon51-71dup
+c.7543_10262dup	Fr.	1	DMD	exon52-71dup
+c.8218_10262dup	Fr.	1	DMD	exon56-71dup
+c.8548_10262dup	Fr.	1	DMD	exon58-71dup
+c.9085_10262dup	Fr.	1	DMD	exon61-71dup
+c.6913_10553dup	Fr.	1	DMD	exon48-74dup
+c.7099_10553dup	Fr.	1	DMD	exon49-74dup
+c.10554_10921dup	Fr.	1	DMD	exon75-76dup
+c.6913_11014dup	Fr.	1	DMD	exon48-77dup
+c.9085_11014dup	Fr.	1	DMD	exon61-77dup
+c.11056ins3395		1	DMD	exondup
+c.7661_11058dup	Fr.	1	DMD	exon53-79dup
+c.9225_11058dup	InF	1	DMD	exon63-79dup
+Protein nomenclature	Mutation type	# records	Diagnosis	cDNA Nomenclature
+p.Val7X	Fr.	1	DMD	c.17delA
+p.Glu14LysfsX12	Fr.	1	DMD	c.39delA
+p.Lys18GlufsX13	Fr.	1	DMD	c.50_51delAA
+p.Gln45ArgfsX7	Fr.	1	DMD	c.134delA
+p.Asp46MetfsX6	Fr.	1	DMD	c.136delG
+p.Lys61ThrfsX27	Fr.	1	DMD	c.182_183delAA
+p.Gly67AspfsX8	Fr.	1	DMD	c.198delA
+p.Asn103IlefsX4	Fr.	1	DMD	c.308delA
+p.His104GlnfsX33	Fr.	1	DMD	c.312_313delTA
+p.Val123AsnfsX14	Fr.	1	DMD	c.367_368delGT
+p.Met124IlefsX18	Fr.	1	DMD	c.372delG
+p.Lys138AspfsX12	Fr.	1	DMD	c.412_413delAA
+p.Leu140SerfsX2	Fr.	1	DMD	c.418delC
+p.Tyr151IlefsX6	Fr.	1	DMD	c.451delT
+p.Phe159HisfsX6	Fr.	1	DMD	c.475_476delTT
+p.Asn170MetfsX38	Fr.	1	DMD	c.507delG
+p.Asn170LeufsX37	Fr.	1	DMD	c.508_511delAATG
+p.Val187PhefsX21	Fr.	1	DMD	c.559delG
+p.Met230SerfsX14	Fr.	1	DMD	c.689delT
+p.Tyr286X	Fr.	1	DMD	c.857_858delAT
+p.Ser319HisfsX16	Fr.	1	DMD	c.955delT
+p.Glu323LysfsX12	Fr.	1	DMD	c.967delG
+p.Glu338LysfsX2	Fr.	3	DMD	c.1012delG
+p.Glu359GlyfsX17	Fr.	1	DMD	c.1076delA
+p.Glu373ThrfsX10	Fr.	1	DMD	c.1117_1129del
+p.Gln401AsnfsX6	Fr.	1	DMD	c.1201delC
+p.Leu412TyrfsX13	Fr.	1	DMD	c.1235delT
+p.His446X	Fr.	1	DMD	c.1336_1337delCA
+p.Lys494SerfsX24	Fr.	1	DMD	c.1481_1482delAG
+p.Leu500X	Fr.	1	DMD	c.1498delC
+p.Ser521ArgfsX61	Fr.	1	DMD	c.1563_1566delTGGA
+p.Glu531AspfsX52	Fr.	1	DMD	c.1593delA
+p.Asn542ThrfsX41	Fr.	1	DMD	c.1625delA
+p.Ile543SerfsX40	Fr.	1	DMD	c.1627delA
+p.Asp556ThrfsX27	Fr.	1	DMD	c.1666delG
+p.Gln562AsnfsX21	Fr.	1	DMD	c.1684delC
+p.Phe571LeufsX12	Fr.	3	DMD	c.1713delT
+p.Ala573HisfsX10	Fr.	1	DMD	c.1717delG
+p.Trp574GlyfsX9	Fr.	1	DMD	c.1719delA
+p.Ser576GlnfsX7	Fr.	1	DMD	c.1726delT
+p.Thr588LeufsX19	Fr.	1	DMD	c.1762delA
+p.Lys591CysfsX11	Fr.	1	DMD	c.1771_1786del
+p.Asn594MetfsX13	Fr.	2	DMD	c.1781delA
+p.Val605PhefsX2	Fr.	1	DMD	c.1812delC
+p.Ala608ArgfsX3	Fr.	1	DMD	c.1821delA
+p.Gly618GlnfsX16	Fr.	1	DMD	c.1852_1853delGG
+p.Tyr621PhefsX13	Fr.	1	DMD	c.1860_1861delGT
+p.Lys624AsnfsX8	Fr.	1	DMD	c.1872delA
+p.Asp652GlufsX3	Fr.	1	DMD	c.1956delT
+p.Lys660GlufsX59	Fr.	1	DMD	c.1978_1979delAA
+p.Ile665GlyfsX52	Fr.	1	DMD	c.1993_2000del
+p.Gln673AsnfsX43	Fr.	1	DMD	c.2017_2027del
+p.Thr687ArgfsX2	Fr.	1	DMD	c.2060delC
+p.Thr690LysfsX29	Fr.	1	DMD	c.2069_2070delCA
+p.Val696X	Fr.	1	DMD	c.2086delG
+p.Pro704HisfsX25	Fr.	1	DMD	c.2111delC
+p.Asp727IlefsX2	Fr.	1	DMD	c.2179delG
+p.Ile728AsnfsX2	Fr.	1	DMD	c.2183_2184delTA
+p.Ser733AlafsX27	Fr.	1	DMD	c.2197delA
+p.Arg737ProfsX23	Fr.	1	DMD	c.2210delG
+p.Gln743HisfsX16	Fr.	1	DMD	c.2229_2232delGAGT
+p.Pro745X	Fr.	3	DMD	c.2230_2231delAG
+p.Asn755LysfsX11	Fr.	1	DMD	c.2265_2284del
+p.Phe756LeufsX6	Fr.	1	DMD	c.2268_2299del
+p.Asp758ThrfsX2	Fr.	1	DMD	c.2271delA
+p.Glu761LysfsX5	Fr.	1	DMD	c.2281_2284delGAAA
+p.Glu761SerfsX10	Fr.	5	DMD	c.2281_2285delGAAAA
+p.Ser800ArgfsX9	Fr.	1	DMD	c.2400delC
+p.Arg811LeufsX6	Fr.	1	DMD	c.2430_2443del
+p.Ser820ArgfsX25	Fr.	1	DMD	c.2457_2460delAAGT
+p.Leu826SerfsX19	Fr.	1	DMD	c.2476_2479delCTGG
+p.Asn831ThrfsX15	Fr.	1	DMD	c.2492delA
+p.Glu850LysfsX4	Fr.	1	DMD	c.2547delT
+p.Lys854AsnfsX13	Fr.	1	DMD	c.2559_2560delGA
+p.Thr864LysfsX7	Fr.	1	DMD	c.2591delC
+p.Ser868ValfsX3	Fr.	1	DMD	c.2601delA
+p.Gln869ValfsX5	Fr.	1	DMD	c.2601_2602delAA
+p.Arg879GlyfsX12	Fr.	1	DMD	c.2635delC
+p.Leu880TyrfsX11	Fr.	1	DMD	c.2638delC
+p.Gln886LysfsX29	Fr.	1	DMD	c.2655_2668del
+p.Lys891AsnfsX28	Fr.	1	DMD	c.2673_2674delAA
+p.Gly903AspfsX46	Fr.	2	DMD	c.2706delA
+p.Val921SerfsX28	Fr.	1	DMD	c.2761delG
+p.Leu939AlafsX29	Fr.	1	DMD	c.2815_2816delTT
+p.Gln945ArgfsX4	Fr.	1	DMD	c.2833delC
+p.Ser987LysfsX20	Fr.	1	DMD	c.2960_2979del
+p.Glu1005ArgfsX39	Fr.	1	DMD	c.3012delA
+p.Ser1012LeufsX32	Fr.	1	DMD	c.3033delC
+p.Tyr1018X	Fr.	2	DMD	c.3053_3087del
+p.Ser1033LeufsX5	Fr.	1	DMD	c.3097_3098delTC
+p.Leu1050ProfsX11	Fr.	1	DMD	c.3149delT
+p.Ile1053PhefsX8	Fr.	1	DMD	c.3157delA
+p.Lys1062AsnfsX10	Fr.	1	DMD	c.3183delG
+p.Lys1086SerfsX3	Fr.	1	DMD	c.3257delA
+p.Asn1109MetfsX7	Fr.	1	DMD	c.3326delA
+p.Lys1116MetfsX36	Fr.	1	DMD	c.3347_3350delAGAA
+p.Gln1137CysfsX12	Fr.	1	DMD	c.3408_3420del
+p.Leu1152LysfsX17	Fr.	1	DMD	c.3454_3479del
+p.Val1160LysfsX17	Fr.	1	DMD	c.3478_3479delGT
+p.Glu1182GlyfsX19	Fr.	1	DMD	c.3545delA
+p.Asp1184ValfsX2	Fr.	1	DMD	c.3551_3552delAT
+p.Glu1211LysfsX4	Fr.	1	DMD	c.3630delA
+p.Lys1238ArgfsX6	Fr.	1	DMD	c.3713delA
+p.Glu1239AsnfsX5	Fr.	1	DMD	c.3715delG
+p.Glu1241X	Fr.	1	DMD	c.3720_3726del
+p.Leu1243AsnfsX10	Fr.	4	DMD	c.3727_3728delCT
+p.Arg1253ThrfsX17	Fr.	1	DMD	c.3758_3759delGG
+p.Lys1257AsnfsX26	Fr.	2	DMD	c.3768delG
+p.Cys1258AspfsX11	Fr.	1	DMD	c.3772_3776delTGCAA
+p.Asn1283LysfsX3	Fr.	2	DMD	c.3849delT
+p.Lys1288AsnfsX19	Fr.	1	DMD	c.3864delA
+p.Ala1299LeufsX8	Fr.	1	DMD	c.3894delA
+p.His1315GlnfsX15	Fr.	1	DMD	c.3945_3948delTTCA
+p.Ser1316X	Fr.	1	DMD	c.3947_3948delCA
+p.Lys1363ValfsX3	Fr.	1	DMD	c.4087_4088delAA
+p.Gln1367ArgfsX15	Fr.	1	DMD	c.4100delA
+p.Glu1376TyrfsX3	Fr.	1	DMD	c.4126_4135del
+p.Thr1387AsnfsX31	Fr.	1	DMD	c.4160delC
+p.His1430GlnfsX15	Fr.	1	DMD	c.4290_4291delTA
+p.Ile1444MetfsX12	Fr.	1	DMD	c.4332_4335delTGAT
+p.Lys1450AsnfsX7	Fr.	1	DMD	c.4350delA
+p.Lys1482ArgfsX16	Fr.	1	DMD	c.4443delG
+p.Pro1486LeufsX12	Fr.	1	DMD	c.4457delC
+p.Lys1491GlufsX19	Fr.	1	DMD	c.4471_4472delAA
+p.Val1493GlyfsX17	Fr.	1	DMD	c.4477_4478delGT
+p.Val1506GlufsX4	Fr.	1	DMD	c.4517_4518delTG
+p.Leu1508CysfsX5	Fr.	1	DMD	c.4523delT
+p.Leu1512GlnfsX2	Fr.	1	DMD	c.4535_4536delTG
+p.Ser1513LysfsX2	Fr.	2	DMD	c.4538_4541delGTGA
+p.Lys1516X	Fr.	4	DMD	c.4545_4549delGAAGT
+p.Ala1547LeufsX2	Fr.	1	DMD	c.4638delA
+p.Leu1548X	Fr.	1	DMD	c.4643delT
+p.Val1559X	Fr.	1	DMD	c.4675delG
+p.Arg1562SerfsX8	Fr.	2	DMD	c.4686_4689delAAAG
+p.Lys1575ArgfsX6	Fr.	1	DMD	c.4724delA
+p.Gly1614GlufsX15	Fr.	1	DMD	c.4841delG
+p.Gln1618GlufsX28	Fr.	1	DMD	c.4851_4870del
+p.Glu1620ArgfsX9	Fr.	2	DMD	c.4857delA
+p.Glu1633GlyfsX19	Fr.	2	DMD	c.4898_4899delAG
+p.Gly1635ValfsX15	Fr.	1	DMD	c.4904_4911del
+p.Glu1636ArgfsX2	Fr.	1	DMD	c.4906_4949del
+p.Asp1651IlefsX6	Fr.	1	DMD	c.4951delG
+p.Trp1660X	Fr.	1	DMD	c.4980delG
+p.Met1681GlyfsX4	Fr.	1	DMD	c.5040_5041delCA
+p.Thr1683IlefsX38	Fr.	1	DMD	c.5048delC
+p.Phe1684LeufsX37	Fr.	1	DMD	c.5052delT
+p.Lys1693SerfsX28	Fr.	1	DMD	c.5078delA
+p.Lys1708GlufsX10	Fr.	1	DMD	c.5118_5119delGA
+p.Lys1708AsnfsX12	Fr.	2	DMD	c.5124_5127delGAAA
+p.Gln1711SerfsX10	Fr.	1	DMD	c.5131delC
+p.Glu1714LysfsX7	Fr.	1	DMD	c.5139delA
+p.Glu1714LysfsX7	Fr.	1	DMD	c.5140delG
+p.Glu1714ArgfsX4	Fr.	1	DMD	c.5140_5141delGA
+p.Thr1734SerfsX10	Fr.	1	DMD	c.5199_5209del
+p.Ile1757SerfsX24	Fr.	3	DMD	c.5269delA
+p.Ser1758ArgfsX14	Fr.	1	DMD	c.5272_5273delTC
+p.His1762LeufsX19	Fr.	2	DMD	c.5285delA
+p.Leu1780X	Fr.	1	DMD	c.5339delT
+p.Asp1789AsnfsX14	Fr.	1	DMD	c.5365_5374del
+p.Leu1793SerfsX2	Fr.	1	DMD	c.5378_5379delTG
+p.Glu1795AsnfsX11	Fr.	1	DMD	c.5382delT
+p.Glu1795AspfsX10	Fr.	1	DMD	c.5385_5388delACCA
+p.Val1805X	Fr.	1	DMD	c.5413delG
+p.Glu1826AsnfsX22	Fr.	1	DMD	c.5475delA
+p.Gly1831ArgfsX10	Fr.	1	DMD	c.5487_5488delAA
+p.Gln1851SerfsX14	Fr.	1	DMD	c.5551delC
+p.Thr1856AsnfsX8	Fr.	1	DMD	c.5565_5568delGACA
+p.Arg1868GlufsX6	Fr.	2	DMD	c.5601delA
+p.Arg1868GlufsX5	Fr.	8	DMD	c.5602_5605delAGAA
+p.Arg1869LysfsX4	Fr.	1	DMD	c.5605_5608delAGAA
+p.Asp1888IlefsX3	Fr.	1	DMD	c.5662delG
+p.Lys1899AsnfsX2	Fr.	2	DMD	c.5697delA
+p.Ser1902TyrfsX10	Fr.	3	DMD	c.5704_5707delAGCC
+p.Asp1916AlafsX12	Fr.	1	DMD	c.5747_5757del
+p.Lys1923GlyfsX7	Fr.	1	DMD	c.5766_5770delGAAAG
+p.Lys1923ArgfsX3	Fr.	1	DMD	c.5768_5771delAAGA
+p.Glu1924GlyfsX7	Fr.	1	DMD	c.5771_5772delAG
+p.Glu1934CysfsX47	Fr.	1	DMD	c.5800_5806del
+p.Thr1986ArgfsX17	Fr.	1	DMD	c.5957_5958delCT
+p.Pro1990LeufsX12	Fr.	2	DMD	c.5969delC
+p.Ser1994PhefsX8	Fr.	1	DMD	c.5981delC
+p.Asn2019LysfsX20	Fr.	2	DMD	c.6057delT
+p.Ala2025X	Fr.	1	DMD	c.6072_6073delTG
+p.Thr2067SerfsX6	Fr.	1	DMD	c.6200delC
+p.Arg2098AspfsX16	Fr.	1	DMD	c.6288delA
+p.Trp2106GlyfsX8	Fr.	1	DMD	c.6316delT
+p.Lys2129HisfsX33	Fr.	1	DMD	c.6385_6388delAAGA
+p.Gln2131AsnfsX3	Fr.	4	DMD	c.6391_6392delCA
+p.Gln2131HisfsX3	Fr.	1	DMD	c.6393_6394delAA
+p.Gly2153_Gln2154delinsGlu	InF	1	DMD	c.6458_6460delGGC
+p.Thr2176GlnfsX13	Fr.	1	DMD	c.6526delA
+p.Gly2186GlufsX3	Fr.	1	DMD	c.6557delG
+p.Gly2241GlufsX6	Fr.	1	DMD	c.6720delT
+p.Lys2249SerfsX22	Fr.	1	DMD	c.6746delA
+p.Gly2265GlufsX6	Fr.	1	DMD	c.6794delG
+p.Lys2268AsnfsX2	Fr.	2	DMD	c.6804_6807delACAA
+p.Gln2269AsnfsX2	Fr.	1	DMD	c.6805delC
+p.Ala2308GlufsX6	Fr.	1	DMD	c.6923_6933del
+p.Asp2322ThrfsX16	Fr.	1	DMD	c.6963delA
+p.Lys2329SerfsX9	Fr.	1	DMD	c.6980delA
+p.Lys2329SerfsX9	Fr.	1	DMD	c.6986delA
+p.Glu2352ArgfsX5	Fr.	1	DMD	c.7053_7075del
+p.Tyr2354IlefsX17	Fr.	1	DMD	c.7060delT
+p.Ile2370LysfsX30	Fr.	1	DMD	c.7109delT
+p.Pro2394GlnfsX6	Fr.	1	DMD	c.7181delC
+p.Asn2414ThrfsX7	Fr.	1	DMD	c.7241delA
+p.Leu2416TyrfsX5	Fr.	1	DMD	c.7247delT
+p.Ala2422GlufsX6	Fr.	1	DMD	c.7265delC
+p.Leu2431HisfsX20	Fr.	1	DMD	c.7292_7296delTGACC
+p.Thr2443SerfsX9	Fr.	1	DMD	c.7327_7328delAC
+p.Gln2447ThrfsX5	Fr.	1	DMD	c.7339_7340delCA
+p.Leu2465X	Fr.	1	DMD	c.7392delC
+p.Leu2467AlafsX5	Fr.	1	DMD	c.7399_7454del
+p.Asp2484ThrfsX10	Fr.	1	DMD	c.7449delC
+p.Asp2505IlefsX5	Fr.	2	DMD	c.7513delG
+p.Ala2515_Arg2547del	InF	1	DMD	c.7543_7641del
+p.Gln2518ArgfsX20	Fr.	1	DMD	c.7552delC
+p.Gln2522ArgfsX16	Fr.	1	DMD	c.7565delA
+p.Ile2557PhefsX19	Fr.	2	DMD	c.7669delA
+p.Glu2563SerfsX9	Fr.	1	DMD	c.7686_7702del
+p.Val2564TyrfsX12	Fr.	1	DMD	c.7689delA
+p.Arg2572GlyfsX4	Fr.	1	DMD	c.7714delA
+p.Lys2580ArgfsX17	Fr.	1	DMD	c.7739delA
+p.Glu2590LysfsX6	Fr.	1	DMD	c.7768_7771delGAAG
+p.Leu2596X	Fr.	1	DMD	c.7787delT
+p.Tyr2611LeufsX3	Fr.	1	DMD	c.7832delA
+p.Lys2624ThrfsX18	Fr.	1	DMD	c.7871_7872delAG
+p.Gln2625SerfsX13	Fr.	2	DMD	c.7873delC
+p.Leu2626SerfsX13	Fr.	1	DMD	c.7877_7887del
+p.Gln2634ArgfsX4	Fr.	1	DMD	c.7901delA
+p.Asn2641LysfsX5	Fr.	1	DMD	c.7923delT
+p.Glu2681LeufsX44	Fr.	1	DMD	c.8034_8037delTGAG
+p.Glu2686LysfsX40	Fr.	1	DMD	c.8055delA
+p.Leu2690TyrfsX36	Fr.	1	DMD	c.8069delT
+p.Leu2696ArgfsX30	Fr.	1	DMD	c.8087delT
+p.Glu2733SerfsX2	Fr.	1	DMD	c.8196delA
+p.His2753GlnfsX11	Fr.	1	DMD	c.8259delC
+p.Leu2755TrpfsX9	Fr.	2	DMD	c.8263delC
+p.Ile2762LysfsX16	Fr.	1	DMD	c.8285_8300del
+p.Lys2785GlyfsX34	Fr.	1	DMD	c.8353_8368del
+p.Lys2792ValfsX5	Fr.	1	DMD	c.8374_8375delAA
+p.His2799GlnfsX3	Fr.	1	DMD	c.8392_8402del
+p.Ser2813PhefsX11	Fr.	1	DMD	c.8438delC
+p.Val2869ThrfsX25	Fr.	1	DMD	c.8605_8606delGT
+p.Leu2884ProfsX9	Fr.	1	DMD	c.8651_8655delTCTAC
+p.Asn2919ThrfsX11	Fr.	1	DMD	c.8754delG
+p.Leu2936ProfsX9	Fr.	1	DMD	c.8807_8808delTC
+p.Lys2949SerfsX7	Fr.	2	DMD	c.8844delC
+p.Asp2969ThrfsX20	Fr.	2	DMD	c.8905delG
+p.Leu2971ProfsX26	Fr.	1	DMD	c.8911_8912delCT
+p.His2974ThrfsX15	Fr.	1	DMD	c.8920delC
+p.Lys2977SerfsX11	Fr.	1	DMD	c.8929_8932delAAAG
+p.Ala2980_Thr3016del	InF	2	DMD	c.8938_9048del
+p.Asp3044AlafsX48	Fr.	1	DMD	c.9131_9147del
+p.Ser3054ProfsX35	Fr.	1	DMD	c.9160delT
+p.Gln3058ArgfsX31	Fr.	1	DMD	c.9173delA
+p.Asn3068LysfsX20	Fr.	4	DMD	c.9204_9207delCAAA
+p.Thr3080LeufsX8	Fr.	2	DMD	c.9238_9241delACAA
+p.Glu3090AlafsX7	Fr.	1	DMD	c.9269_9270delAG
+p.Met3110GlufsX12	Fr.	1	DMD	c.9328_9337del
+p.Lys3111AsnfsX14	Fr.	1	DMD	c.9333delA
+p.Leu3124GlufsX7	Fr.	1	DMD	c.9370_9371delTT
+p.Ile3151LeufsX4	Fr.	1	DMD	c.9451delA
+p.Val3222TrpfsX61	Fr.	1	DMD	c.9663delA
+p.Ser3225GlnfsX58	Fr.	1	DMD	c.9673delT
+p.Ser3262CysfsX9	Fr.	1	DMD	c.9783_9784delAA
+p.Glu3288AsnfsX42	Fr.	1	DMD	c.9862delG
+p.Pro3296LeufsX27	Fr.	1	DMD	c.9887_9908del
+p.Pro3320GlnfsX10	Fr.	2	DMD	c.9959delC
+p.Phe3332LeufsX45	Fr.	1	DMD	c.9996delT
+p.Cys3340AlafsX37	Fr.	1	DMD	c.10018delT
+p.Ser3343LeufsX34	Fr.	1	DMD	c.10027delT
+p.Thr3363LeufsX14	Fr.	2	DMD	c.10086delG
+p.Gly3366del	InF	1	DMD	c.10096_10098delGGA
+p.Glu3367del	InF	1	DMD	c.10098_10100delAGA
+p.Glu3367_Glu3367del	InF	1	DMD	c.10101_10103delAGA
+p.Leu3376X	Fr.	2	DMD	c.10126delC
+p.Lys3379PhefsX22	Fr.	1	DMD	c.10134_10137delCAAA
+p.Lys3379AsnfsX23	Fr.	1	DMD	c.10137delA
+p.Met3392TrpfsX10	Fr.	2	DMD	c.10174delA
+p.Tyr3394ThrfsX8	Fr.	1	DMD	c.10179delC
+p.Tyr3394SerfsX36	Fr.	1	DMD	c.10179_10186del
+p.Leu3485GlufsX5	Fr.	2	DMD	c.10453_10454delCT
+p.Leu3485ArgfsX11	Fr.	4	DMD	c.10454delT
+p.Gln3493ArgfsX3	Fr.	1	DMD	c.10478delA
+p.Ser3497ProfsX2	Fr.	1	DMD	c.10489delT
+p.Ser3500ArgfsX14	Fr.	1	DMD	c.10500_10501delTG
+p.Pro3542SerfsX2	Fr.	1	DMD	c.10624_10625delCC
+p.Arg3575GlyfsX19	Fr.	2	DMD	c.10722delC
+Protein nomenclature	Mutation type	# records	Diagnosis	cDNA Nomenclature
+p.Asn39LysfsX5		1	DMD	c.116dup
+p.Ser42ArgfsX2	Fr.	1	DMD	c.125dup
+p.Leu44ArgfsX46	Fr.	1	DMD	c.127_130dup
+p.Arg48GlufsX41		1	DMD	c.141dup
+p.Asp52GlyfsX37		1	DMD	c.154dup
+p.Gln60AlafsX29		1	DMD	c.177dup
+p.Leu62ThrfsX27		1	DMD	c.183dup
+p.Glu65ArgfsX24	Fr.	1	DMD	c.192dup
+p.Ala80GlyfsX9	Fr.	1	DMD	c.238dup
+p.Ala80SerfsX9	Fr.	1	DMD	c.238insA
+p.Asn103LysfsX3	Fr.	1	DMD	c.305dup
+p.Met124AsnfsX14		1	DMD	c.368dup
+p.Gln153ThrfsX3		1	DMD	c.455dup
+p.Trp163AlafsX8	Fr.	1	DMD	c.485_486dup
+p.Glu216X		1	DMD	c.644dup
+p.Lys262X	Fr.	1	DMD	c.783dup
+p.Lys297GlnfsX15		1	DMD	c.887dup
+p.Glu323GlyfsX4		1	DMD	c.967dup
+p.Tyr385ValfsX14	Fr.	1	DMD	c.1152dup
+p.Leu400HisfsX6		1	DMD	c.1199insA
+p.Leu402PhefsX4	Fr.	1	DMD	c.1205dup
+p.Thr418MetfsX10	Fr.	1	DMD	c.1248insagaaatga
+p.Trp431MetfsX8		1	DMD	c.1290dup
+p.Glu432GlyfsX7		2	DMD	c.1294dup
+p.Val436GlyfsX3		1	DMD	c.1306dup
+p.Glu476GlyfsX7		1	DMD	c.1426dup
+p.Val515GlyfsX4		1	DMD	c.1543dup
+p.Val516GlyfsX3		1	DMD	c.1544dup
+p.Trp551LeufsX16	Fr.	1	DMD	c.1651dup
+p.Glu579ArgfsX13		1	DMD	c.1734dup
+p.Thr588GlnfsX20	Fr.	1	DMD	c.1760_1761dup
+p.Lys613GlufsX22		1	DMD	c.1835dup
+p.Asn633IlefsX2		1	DMD	c.1898insT
+p.Ser635X	Fr.	1	DMD	c.1900_1903dup
+p.Glu692GlyfsX28		1	DMD	c.2074dup
+p.Asn809GlufsX13		1	DMD	c.2424insA
+p.Asn824X		1	DMD	c.2469dup
+p.Leu853delinsPhe	Fr.	1	DMD	c.2557_2558dup
+p.Ile855LysfsX17	Fr.	1	DMD	c.2562_2563dup
+p.Leu880MetfsX16	Fr.	1	DMD	c.2624_2637dup
+p.902_900dup	Fr.	1	DMD	c.2703ins73 ?
+p.Met905HisfsX15		1	DMD	c.2712dup
+p.Asp937X	Fr.	1	DMD	c.2808dup
+p.Gln945LeufsX25	Fr.	1	DMD	c.2829insTTAT
+p.Gln977ProfsX37		1	DMD	c.2929dup
+p.Val1037GlyfsX2	Fr.	1	DMD	c.3107dup
+p.Asp1068ValfsX5	Fr.	1	DMD	c.3203insTT
+p.Ile1083PhefsX18	Fr.	1	DMD	c.3247insTTTCTAAAAA
+p.Gln1087AlafsX11	Fr.	4	DMD	c.3257dup
+p.Lys1089AsnfsX9		1	DMD	c.3267insC
+p.Ser1104GlnfsX7		1	DMD	c.3309dup
+p.Tyr1180X	Fr.	1	DMD	c.3530_3538dup
+p.Thr1189AsnfsX4	Fr.	1	DMD	c.3565dup
+p.Thr1244AsnfsX10		1	DMD	c.3728dup
+p.Gly1256TrpfsX15	Fr.	1	DMD	c.3765dup
+p.Leu1306AlafsX5		1	DMD	c.3914dup
+p.Leu1451IlefsX18		2	DMD	c.4350dup
+p.Ser1455PhefsX14	Fr.	1	DMD	c.4363dup
+p.Glu1668GlnfsX5	Fr.	1	DMD	c.5000_5001dup
+p.Leu1674PhefsX48		1	DMD	c.5020_5021dup
+p.Arg1719AsnfsX10	Fr.	1	DMD	c.5155insAATATAG
+p.Ser1768TyrfsX6	Fr.	1	DMD	c.5299_5302dup
+p.Lys1772X		2	DMD	c.5313dup
+p.Asp1789ArgfsX7	Fr.	1	DMD	c.5364dup
+p.Asn1813IlefsX3	Fr.	1	DMD	c.5434_5437dup
+p.Gln1835ProfsX7		1	DMD	c.5503dup
+p.Arg1865GlufsX23	Fr.	1	DMD	c.5592dup
+p.Leu1900IlefsX6	Fr.	2	DMD	c.5697dup
+p.Ala1901SerfsX5		1	DMD	c.5700dup
+p.1950_1948dup	Fr.	1	DMD	c.5846ins14 ?
+p.Met1989TyrfsX15		1	DMD	c.5965insT
+p.2098_2096dup	Fr.	1	DMD	c.6291ins80 ?
+p.Gln2131HisfsX33	Fr.	1	DMD	c.6391_6392dup
+p.Tyr2144LeufsX3	Fr.	1	DMD	c.6430dup
+p.Leu2185PhefsX38		1	DMD	c.6554dup
+p.Arg2205GlufsX18		3	DMD	c.6611dup
+p.Gln2252ProfsX21	Fr.	1	DMD	c.6754dup
+p.Pro2282TrpfsX10	Fr.	1	DMD	c.6843insATGG
+p.Ile2283SerfsX9	Fr.	1	DMD	c.6843_6846dup
+p.Ser2284LysfsX7		1	DMD	c.6848dup
+p.Ile2316AsnfsX2		1	DMD	c.6946dup
+p.Leu2337PhefsX2	Fr.	1	DMD	c.7009_7010dup
+p.Leu2427ProfsX26	Fr.	1	DMD	c.7279dup
+p.Pro2470ThrfsX21	Fr.	1	DMD	c.7406dup
+p.Trp2485LeufsX6		1	DMD	c.7453dup
+p.Lys2540ArgfsX8		1	DMD	c.7619insG
+p.Arg2556GlufsX21	Fr.	1	DMD	c.7666insGA
+p.Arg2600ThrfsX15	Fr.	1	DMD	c.7797_7798dup
+p.Pro2610SerfsX33		1	DMD	c.7826dup
+p.Thr2612TyrfsX31	Fr.	1	DMD	c.7833dup
+p.Ile2620AsnfsX23		1	DMD	c.7858dup
+p.Arg2631ProfsX12	Fr.	1	DMD	c.7891dup
+p.Leu2696ProfsX14		1	DMD	c.8086dup
+p.Leu2725ProfsX20	Fr.	1	DMD	c.8171dup
+p.Gln2737HisfsX28	Fr.	1	DMD	c.8209_8210dup
+p.Asp2740ArgfsX5		1	DMD	c.8217dup
+p.Ile2762AsnfsX10		1	DMD	c.8284dup
+p.Asp2944SerfsX6	Fr.	1	DMD	c.8822ins13
+p.Gln2952ArgfsX10	Fr.	1	DMD	c.8833_8854dup
+p.Gln2972SerfsX18		1	DMD	c.8912_8913dup
+p.Ala2986CysfsX12	Fr.	1	DMD	c.8955dup
+p.Ser3010PhefsX4	Fr.	1	DMD	c.9028dup
+p.Val3035GlyfsX8	Fr.	1	DMD	c.9097_9103dup
+p.Leu3053SerfsX45	Fr.	1	DMD	c.9156dup
+p.Trp3061GlyfsX29	Fr.	1	DMD	c.9181insGG
+p.Arg3107LysfsX5		1	DMD	c.9320insAA
+p.Asp3134GlyfsX9		1	DMD	c.9400dup
+p.Arg3195HisfsX89	Fr.	1	DMD	c.9584insAT
+p.Gly3202ValfsX3	Fr.	1	DMD	c.9592_9604dup
+p.Ser3225ValfsX6	Fr.	1	DMD	c.9673insG
+p.Ala3270LeufsX14		1	DMD	c.9806_9807dup
+p.Lys3273X	Fr.	1	DMD	c.9816dup
+p.Trp3294CysfsX37		2	DMD	c.9880_9881dup
+p.Ser3343PhefsX9		1	DMD	c.10027dup
+p.Asn3378LysfsX55		1	DMD	c.10133dup
+p.Leu3485ProfsX6	Fr.	2	DMD	c.10453dup
+p.Ser3486GlufsX5		1	DMD	c.10454dup
+p.Gly3535ArgfsX10		1	DMD	c.10602dup
+p.Met3545AlafsX11	Fr.	3	DMD	c.10603_10631dup
+cDNA Nomenclature	Mutation type	# records	Diagnosis	cDNA Nomenclature
+c.IVS1+1G>T (c.31+1G>T)	Tv	7	DMD	c.31+1G>T
+c.IVS1+5G>C (c.31+5G>C)	Tv	3	DMD	c.31+5G>C
+c.IVS2+1G>A (c.93+1G>A)	Ts	1	DMD	c.93+1G>A
+c.IVS3+1G>A (c.186+1G>A)	Ts	1	DMD	c.186+1G>A
+c.IVS5+1G>A (c.357+1G>A)	Ts	1	DMD	c.357+1G>A
+c.IVS5+1G>C (c.357+1G>C)	Tv	3	DMD	c.357+1G>C
+c.IVS5-1G>A (c.358-1G>A)	Ts	1	DMD	c.358-1G>A
+c.IVS5-1G>T (c.358-1G>T)	Tv	1	DMD	c.358-1G>T
+c.IVS5-2A>G (c.358-2A>G)	Ts	1	DMD	c.358-2A>G
+c.IVS6+2T>C (c.530+2T>C)	Ts	1	DMD	c.530+2T>C
+c.IVS6+2T>G (c.530+2T>G)	Tv	1	DMD	c.530+2T>G
+c.IVS6-1G>T (c.531-1G>T)	Tv	1	DMD	c.531-1G>T
+c.IVS6-2A>C (c.531-2A>C)	Tv	1	DMD	c.531-2A>C
+c.IVS7+1G>T (c.649+1G>T)	Tv	2	DMD	c.649+1G>T
+c.IVS7+2T>C (c.649+2T>C)	Ts	1	DMD	c.649+2T>C
+c.IVS7+5G>A (c.649+5G>A)	Ts	1	DMD	c.649+5G>A
+c.IVS8+2T>C (c.831+2T>C)	Ts	1	DMD	c.831+2T>C
+c.IVS9-1G>A (c.961-1G>A)	Ts	1	DMD	c.961-1G>A
+c.IVS10+1G>T (c.1149+1G>T)	Tv	2	DMD	c.1149+1G>T
+c.IVS10-2A>G (c.1150-2A>G)	Ts	1	DMD	c.1150-2A>G
+c.IVS11+1G>T (c.1331+1G>T)	Tv	2	DMD	c.1331+1G>T
+c.IVS11-9A>G (c.1332-9A>G)	Ts	6	DMD	c.1332-9A>G
+c.IVS12+1G>T (c.1482+1G>T)	Tv	2	DMD	c.1482+1G>T
+c.IVS13-1G>A (c.1603-1G>A)	Ts	3	DMD	c.1603-1G>A
+c.IVS16+1G>T (c.1992+1G>T)	Tv	1	DMD	c.1992+1G>T
+c.IVS16-3C>G (c.1993-3C>G)	Tv	1	DMD	c.1993-3C>G
+c.IVS17-1G>A (c.2169-1G>A)	Ts	1	DMD	c.2169-1G>A
+c.IVS17-2A>G (c.2169-2A>G)	Ts	1	DMD	c.2169-2A>G
+c.IVS17-2A>T (c.2169-2A>T)	Tv	1	DMD	c.2169-2A>T
+c.IVS18+1G>A (c.2292+1G>A)	Ts	1	DMD	c.2292+1G>A
+c.IVS18+1G>T (c.2292+1G>T)	Tv	1	DMD	c.2292+1G>T
+c.IVS18+2T>C (c.2292+2T>C)	Ts	1	DMD	c.2292+2T>C
+c.IVS18-1G>A (c.2293-1G>A)	Ts	1	DMD	c.2293-1G>A
+c.IVS18-1G>T (c.2293-1G>T)	Tv	1	DMD	c.2293-1G>T
+c.IVS18-5del7 (c.2293-5del7)	Tv	1	DMD	c.2293-5del7
+c.IVS19+2T>C (c.2380+2T>C)	Ts	1	DMD	c.2380+2T>C
+c.IVS19-2A>G (c.2381-2A>G)	Ts	1	DMD	c.2381-2A>G
+c.IVS20+1G>A (c.2622+1G>A)	Ts	2	DMD	c.2622+1G>A
+c.IVS20+2T>G (c.2622+2T>G)	Tv	1	DMD	c.2622+2T>G
+c.IVS20-3C>G (c.2623-3C>G)	Tv	2	DMD	c.2623-3C>G
+c.IVS21+1delG (c.2803+1delG)	Tv	1	DMD	c.2803+1delG
+c.IVS21-1G>T (c.2804-1G>T)	Tv	1	DMD	c.2804-1G>T
+c.IVS21-2A>C (c.2804-2A>C)	Tv	4	DMD	c.2804-2A>C
+c.IVS21-2A>G (c.2804-2A>G)	Ts	2	DMD	c.2804-2A>G
+c.IVS21-2A>T (c.2804-2A>T)	Tv	2	DMD	c.2804-2A>T
+c.IVS22+1G>T (c.2949+1G>T)	Tv	3	DMD	c.2949+1G>T
+c.IVS24+1G>A (c.3276+1G>A)	Ts	2	DMD	c.3276+1G>A
+c.IVS24-1G>T (c.3277-1G>T)	Tv	1	DMD	c.3277-1G>T
+c.IVS26+1G>A (c.3603+1G>A)	Ts	1	DMD	c.3603+1G>A
+c.IVS26+1G>T (c.3603+1G>T)	Tv	1	DMD	c.3603+1G>T
+c.IVS26+2T>A (c.3603+2T>A)	Tv	2	DMD	c.3603+2T>A
+c.IVS27+1G>A (c.3786+1G>A)	Ts	1	DMD	c.3786+1G>A
+c.IVS32+1G>A (c.4518+1G>A)	Ts	1	DMD	c.4518+1G>A
+c.IVS32+1G>T (c.4518+1G>T)	Tv	1	DMD	c.4518+1G>T
+c.IVS32+2T>C (c.4518+2T>C)	Ts	2	DMD	c.4518+2T>C
+c.IVS32+2T>G (c.4518+2T>G)	Tv	2	DMD	c.4518+2T>G
+c.IVS32+5G>A (c.4518+5G>A)	Ts	2	DMD	c.4518+5G>A
+c.IVS32+6T>A (c.4518+6T>A)	Tv	1	DMD	c.4518+6T>A
+c.IVS34+2T>C (c.4845+2T>C)	Ts	1	DMD	c.4845+2T>C
+c.IVS35-2A>G (c.5026-2A>G)	Ts	1	DMD	c.5026-2A>G
+c.IVS36-3T>G (c.5155-3T>G)	Tv	1	DMD	c.5155-3T>G
+c.IVS38-3C>G (c.5449-3C>G)	Tv	1	DMD	c.5449-3C>G
+c.IVS42-1G>A (c.6118-1G>A)	Ts	1	DMD	c.6118-1G>A
+c.IVS43+1G>T (c.6290+1G>T)	Tv	2	DMD	c.6290+1G>T
+c.IVS43+2T>C (c.6290+2T>C)	Ts	1	DMD	c.6290+2T>C
+c.IVS43+5G>C (c.6290+5G>C)	Tv	1	DMD	c.6290+5G>C
+c.IVS43-1G>A (c.6291-1G>A)	Ts	1	DMD	c.6291-1G>A
+c.IVS44+1delG (c.6438+1delG)	Tv	1	DMD	c.6438+1delG
+c.IVS44+1G>A (c.6438+1G>A)	Ts	1	DMD	c.6438+1G>A
+c.IVS44+2insTT (c.6438+2insTT)	Tv	1	DMD	c.6438+2insTT
+c.IVS45+1G>A (c.6614+1G>A)	Ts	1	DMD	c.6614+1G>A
+c.IVS45+1G>T (c.6614+1G>T)	Tv	1	DMD	c.6614+1G>T
+c.IVS45+2T>C (c.6614+2T>C)	Ts	1	DMD	c.6614+2T>C
+c.IVS45-1G>C (c.6615-1G>C)	Tv	1	DMD	c.6615-1G>C
+c.IVS45-2A>T (c.6615-2A>T)	Tv	1	DMD	c.6615-2A>T
+c.IVS46+2T>C (c.6762+2T>C)	Ts	1	DMD	c.6762+2T>C
+c.IVS47-2A>G (c.6913-2A>G)	Ts	1	DMD	c.6913-2A>G
+c.IVS48+1G>T (c.7098+1G>T)	Tv	2	DMD	c.7098+1G>T
+c.IVS49-3A>G (c.7201-3A>G)	Ts	1	DMD	c.7201-3A>G
+c.IVS50+1G>A (c.7309+1G>A)	Ts	1	DMD	c.7309+1G>A
+c.IVS50+2T>A (c.7309+2T>A)	Tv	1	DMD	c.7309+2T>A
+c.IVS50-1G>A (c.7310-1G>A)	Ts	1	DMD	c.7310-1G>A
+c.IVS50-2A>G (c.7310-2A>G)	Ts	1	DMD	c.7310-2A>G
+c.IVS54+1G>A (c.8027+1G>A)	Ts	2	DMD	c.8027+1G>A
+c.IVS54+1G>T (c.8027+1G>T)	Tv	2	DMD	c.8027+1G>T
+c.IVS55+5G>A (c.8217+5G>A)	Ts	1	DMD	c.8217+5G>A
+c.IVS55-1G>C (c.8218-1G>C)	Tv	1	DMD	c.8218-1G>C
+c.IVS55-2A>G (c.8218-2A>G)	Ts	2	DMD	c.8218-2A>G
+c.IVS56+1delG (c.8390+1delG)	Tv	1	DMD	c.8390+1delG
+c.IVS56+1G>A (c.8390+1G>A)	Ts	1	DMD	c.8390+1G>A
+c.IVS56-1G>A (c.8391-1G>A)	Ts	2	DMD	c.8391-1G>A
+c.IVS58+1delG (c.8668+1delG)	Tv	1	DMD	c.8668+1delG
+c.IVS58+1G>C (c.8668+1G>C)	Tv	1	DMD	c.8668+1G>C
+c.IVS58-2A>G (c.8669-2A>G)	Ts	1	DMD	c.8669-2A>G
+c.IVS60-1G>A (c.9085-1G>A)	Ts	1	DMD	c.9085-1G>A
+c.IVS61+1G>A (c.9163+1G>A)	Ts	2	DMD	c.9163+1G>A
+c.IVS61+2T>G (c.9163+2T>G)	Tv	1	DMD	c.9163+2T>G
+c.IVS61-2A>G (c.9164-2A>G)	Ts	1	DMD	c.9164-2A>G
+c.IVS62+1G>A (c.9224+1G>A)	Ts	3	DMD	c.9224+1G>A
+c.IVS62+5G>C (c.9224+5G>C)	Tv	1	DMD	c.9224+5G>C
+c.IVS62-10T>A (c.9225-10T>A)	Tv	1	DMD	c.9225-10T>A
+c.IVS62-1G>A (c.9225-1G>A)	Ts	1	DMD	c.9225-1G>A
+c.IVS62-2A>C (c.9225-2A>C)	Tv	1	DMD	c.9225-2A>C
+c.IVS63+2T>A (c.9286+2T>A)	Tv	1	DMD	c.9286+2T>A
+c.IVS64+1G>A (c.9361+1G>A)	Ts	5	DMD	c.9361+1G>A
+c.IVS65+1G>A (c.9563+1G>A)	Ts	7	DMD	c.9563+1G>A
+c.IVS65-2A>G (c.9564-2A>G)	Ts	1	DMD	c.9564-2A>G
+c.IVS65-2A>T (c.9564-2A>T)	Tv	1	DMD	c.9564-2A>T
+c.IVS66+1G>A (c.9649+1G>A)	Ts	4	DMD	c.9649+1G>A
+c.IVS66+6T>C (c.9649+6T>C)	Ts	1	DMD	c.9649+6T>C
+c.IVS67+4delA (c.9807+4delA)	Tv	1	DMD	c.9807+4delA
+c.IVS67+5G>A (c.9807+5G>A)	Ts	1	DMD	c.9807+5G>A
+c.IVS67+6T>G (c.9807+6T>G)	Tv	1	DMD	c.9807+6T>G
+c.IVS68+1G>C (c.9974+1G>C)	Tv	1	DMD	c.9974+1G>C
+c.IVS68+1G>T (c.9974+1G>T)	Tv	2	DMD	c.9974+1G>T
+c.IVS68-2A>G (c.9975-2A>G)	Ts	1	DMD	c.9975-2A>G
+c.IVS69+1G>A (c.10086+1G>A)	Ts	1	DMD	c.10086+1G>A
+c.IVS69+1G>T (c.10086+1G>T)	Tv	2	DMD	c.10086+1G>T
+c.IVS69+5G>C (c.10086+5G>C)	Tv	1	DMD	c.10086+5G>C
+c.IVS69-2A>T (c.10087-2A>T)	Tv	1	DMD	c.10087-2A>T
+c.IVS70+1G>A (c.10223+1G>A)	Ts	9	DMD	c.10223+1G>A
+c.IVS70+1G>T (c.10223+1G>T)	Tv	2	DMD	c.10223+1G>T
+c.IVS70+2InsT (c.10223+2InsT)	Tv	2	DMD	c.10223+2insT
+c.IVS70+3G>C (c.10223+3G>C)	Tv	3	DMD	c.10223+3G>C
+c.IVS70+5G>A (c.10223+5G>A)	Ts	2	DMD	c.10223+5G>A
+c.IVS70-1InsT (c.10224-1InsT)	Tv	2	DMD	c.10224-1insT
+Protein nomenclature	Mutation type	# records	Diagnosis	cDNA Nomenclature
+p.Gln45X	Ts	1	DMD	c.133C>T
+p.Gln60X	Ts	1	DMD	c.178C>T
+p.Lys66X	Tv	1	DMD	c.196A>T
+p.Gly67X	Tv	1	DMD	c.199G>T
+p.Gln85X	Ts	1	DMD	c.253C>T
+p.Trp112X	Ts	2	DMD	c.336G>A
+p.Trp118X	Ts	3	DMD	c.354G>A
+p.Gln133X	Ts	2	DMD	c.397C>T
+p.Trp143X	Ts	1	DMD	c.428G>A
+p.Arg145X	Ts	11	DMD	c.433C>T
+p.Gln146X	Ts	1	DMD	c.436C>T
+p.Ser147X	Tv	1	DMD	c.440C>A
+p.Ser147X	Tv	1	DMD	c.440C>G
+p.Tyr151X	Tv	1	DMD	c.453T>A
+p.Tyr151X	Tv	1	DMD	c.453T>G
+p.Gln153X	Ts	2	DMD	c.457C>T
+p.Gln189X	Ts	4	DMD	c.565C>T
+p.Gln190X	Ts	2	DMD	c.568C>T
+p.Ser191X	Tv	1	DMD	c.572C>G
+p.Arg195X	Ts	9	DMD	c.583C>T
+p.Tyr205X	Tv	2	DMD	c.615T>A
+p.Tyr222X	Tv	1	DMD	c.666T>A
+p.Leu229X	Tv	2	DMD	c.686T>G
+p.Ser234X	Tv	2	DMD	c.701C>A
+p.Ser234X	Tv	1	DMD	c.701C>G
+p.Gln237X	Ts	1	DMD	c.709C>T
+p.Gln241X	Ts	2	DMD	c.721C>T
+p.Gln242X	Ts	2	DMD	c.724C>T
+p.Gln249X	Ts	2	DMD	c.745C>T
+p.Glu252X	Tv	1	DMD	c.754G>T
+p.Glu264X	Tv	1	DMD	c.790G>T
+p.Gln276X	Ts	2	DMD	c.826C>T
+p.Gln277X	Ts	1	DMD	c.829C>T
+p.Gly285X	Tv	1	DMD	c.853G>T
+p.Tyr299X	Tv	1	DMD	c.897T>G
+p.Tyr301X	Tv	1	DMD	c.903C>A
+p.Ser319X	Tv	1	DMD	c.956C>G
+p.Leu322X	Tv	1	DMD	c.965T>A
+p.Glu326X	Tv	1	DMD	c.976G>T
+p.Ser329X	Tv	1	DMD	c.986C>G
+p.Ser333X	Tv	2	DMD	c.998C>A
+p.Ser333X	Tv	1	DMD	c.998C>G
+p.Tyr344X	Tv	1	DMD	c.1032T>A
+p.Gln345X	Ts	1	DMD	c.1033C>T
+p.Glu350X	Tv	1	DMD	c.1048G>T
+p.Trp354X	Ts	2	DMD	c.1061G>A
+p.Trp354X	Ts	2	DMD	c.1062G>A
+p.Gln363X	Ts	3	DMD	c.1087C>T
+p.Gln365X	Ts	2	DMD	c.1093C>T
+p.Glu373X	Tv	3	DMD	c.1117G>T
+p.Gln378X	Ts	1	DMD	c.1132C>T
+p.Gly403X	Tv	1	DMD	c.1207G>T
+p.Lys411X	Tv	1	DMD	c.1231A>T
+p.Ser413X	Tv	1	DMD	c.1238C>A
+p.Gln421X	Ts	1	DMD	c.1261C>T
+p.Ser429X	Tv	2	DMD	c.1286C>A
+p.Ser429X	Tv	1	DMD	c.1286C>G
+p.Trp431X	Ts	2	DMD	c.1292G>A
+p.Trp431X	Ts	1	DMD	c.1293G>A
+p.Leu445X	Tv	1	DMD	c.1334T>G
+p.Gln453X	Ts	1	DMD	c.1357C>T
+p.Gln455X	Ts	1	DMD	c.1363C>T
+p.Glu459X	Tv	2	DMD	c.1375G>T
+p.Trp463X	Ts	2	DMD	c.1388G>A
+p.Glu475X	Tv	1	DMD	c.1423G>T
+p.Glu476X	Tv	1	DMD	c.1426G>T
+p.Gln489X	Ts	2	DMD	c.1465C>T
+p.Gln491X	Ts	1	DMD	c.1471C>T
+p.Gln492X	Ts	4	DMD	c.1474C>T
+p.Gln497X	Ts	1	DMD	c.1489C>T
+p.Gln502X	Ts	1	DMD	c.1504C>T
+p.Gln504X	Ts	1	DMD	c.1510C>T
+p.Glu531X	Tv	2	DMD	c.1591G>T
+p.Gln532X	Ts	1	DMD	c.1594C>T
+p.Gly537X	Tv	1	DMD	c.1609G>T
+p.Arg539X	Ts	5	DMD	c.1615C>T
+p.Trp546X	Ts	1	DMD	c.1638G>A
+p.Trp551X	Ts	2	DMD	c.1652G>A
+p.Trp551X	Ts	1	DMD	c.1653G>A
+p.Gln555X	Ts	1	DMD	c.1663C>T
+p.Trp561X	Ts	1	DMD	c.1683G>A
+p.Gln562X	Ts	1	DMD	c.1684C>T
+p.Gln568X	Ts	2	DMD	c.1702C>T
+p.Cys569X	Tv	1	DMD	c.1707C>A
+p.Trp574X	Ts	1	DMD	c.1722G>A
+p.Lys578X	Tv	1	DMD	c.1732A>T
+p.Ser598X	Tv	1	DMD	c.1793C>G
+p.Leu606X	Tv	1	DMD	c.1817T>G
+p.Glu611X	Tv	1	DMD	c.1831G>T
+p.Gln615X	Ts	2	DMD	c.1843C>T
+p.Gln625X	Ts	3	DMD	c.1873C>T
+p.Gln638X	Ts	1	DMD	c.1912C>T
+p.Trp643X	Ts	1	DMD	c.1928G>A
+p.Cys650X	Tv	1	DMD	c.1950T>A
+p.Leu654X	Tv	1	DMD	c.1961T>G
+p.Gln656X	Ts	3	DMD	c.1966C>T
+p.Gln664X	Ts	1	DMD	c.1990C>T
+p.Gln667X	Ts	1	DMD	c.1999C>T
+p.Gln673X	Ts	2	DMD	c.2017C>T
+p.Ser675X	Tv	1	DMD	c.2024C>G
+p.Gln678X	Ts	1	DMD	c.2032C>T
+p.Glu683X	Tv	1	DMD	c.2047G>T
+p.Glu692X	Tv	1	DMD	c.2074G>T
+p.Gln693X	Ts	2	DMD	c.2077C>T
+p.Gln709X	Ts	1	DMD	c.2125C>T
+p.Gln713X	Ts	1	DMD	c.2137C>T
+p.Gln743X	Ts	2	DMD	c.2227C>T
+p.Ser757X	Tv	2	DMD	c.2270C>G
+p.Leu759X	Tv	1	DMD	c.2276T>A
+p.Glu761X	Tv	2	DMD	c.2281G>T
+p.Glu767X	Tv	4	DMD	c.2299G>T
+p.Arg768X	Ts	12	DMD	c.2302C>T
+p.Lys770X	Tv	1	DMD	c.2308A>T
+p.Glu772X	Tv	1	DMD	c.2314G>T
+p.Glu789X	Tv	2	DMD	c.2365G>T
+p.Gln790X	Ts	1	DMD	c.2368C>T
+p.Gln803X	Ts	1	DMD	c.2407C>T
+p.Gln807X	Ts	1	DMD	c.2419C>T
+p.Trp812X	Ts	3	DMD	c.2435G>A
+p.Glu814X	Tv	1	DMD	c.2440G>T
+p.Cys816X	Tv	2	DMD	c.2448C>A
+p.Gln817X	Ts	1	DMD	c.2449C>T
+p.Tyr828X	Tv	1	DMD	c.2484T>A
+p.Gln841X	Ts	1	DMD	c.2521C>T
+p.Gln844X	Ts	1	DMD	c.2530C>T
+p.Leu853X	Tv	1	DMD	c.2558T>A
+p.Glu862X	Tv	1	DMD	c.2584G>T
+p.Gln869X	Ts	2	DMD	c.2605C>T
+p.Arg889X	Ts	1	DMD	c.2665C>T
+p.Leu890X	Tv	1	DMD	c.2669T>G
+p.Lys891X	Tv	1	DMD	c.2671A>T
+p.Gly901X	Tv	1	DMD	c.2701G>T
+p.Lys919X	Tv	1	DMD	c.2755A>T
+p.Gln920X	Ts	4	DMD	c.2758C>T
+p.Arg928X	Tv	1	DMD	c.2782A>T
+p.Lys930X	Tv	2	DMD	c.2788A>T
+p.Glu931X	Tv	2	DMD	c.2791G>T
+p.Gln933X	Ts	2	DMD	c.2797C>T
+p.Tyr944X	Tv	2	DMD	c.2832T>G
+p.Gln945X	Ts	1	DMD	c.2833C>T
+p.Glu946X	Tv	1	DMD	c.2836G>T
+p.Gln956X	Ts	4	DMD	c.2866C>T
+p.Gln957X	Ts	2	DMD	c.2869C>T
+p.Ser958X	Tv	1	DMD	c.2873C>G
+p.Gln977X	Ts	1	DMD	c.2929C>T
+p.Gln983X	Ts	1	DMD	c.2947C>T
+p.Gln986X	Ts	1	DMD	c.2956C>T
+p.Gln990X	Ts	4	DMD	c.2968C>T
+p.Gln992X	Ts	1	DMD	c.2974C>T
+p.Tyr997X	Tv	3	DMD	c.2991C>G
+p.Glu1005X	Tv	1	DMD	c.3013G>T
+p.Lys1017X	Tv	1	DMD	c.3049A>T
+p.Ser1020X	Tv	1	DMD	c.3059C>G
+p.Glu1021X	Tv	1	DMD	c.3061G>T
+p.Glu1026X	Tv	2	DMD	c.3076G>T
+p.Trp1029X	Ts	1	DMD	c.3087G>A
+p.Gln1035X	Ts	1	DMD	c.3103C>T
+p.Gln1041X	Ts	2	DMD	c.3121C>T
+p.Lys1042X	Tv	1	DMD	c.3124A>T
+p.Gln1046X	Ts	2	DMD	c.3136C>T
+p.Arg1051X	Ts	8	DMD	c.3151C>T
+p.Lys1062X	Tv	2	DMD	c.3184A>T
+p.Trp1063X	Ts	2	DMD	c.3188G>A
+p.Glu1066X	Tv	1	DMD	c.3196G>T
+p.Glu1074X	Tv	2	DMD	c.3220G>T
+p.Gln1087X	Ts	1	DMD	c.3259C>T
+p.Gln1102X	Ts	1	DMD	c.3304C>T
+p.Glu1133X	Tv	1	DMD	c.3397G>T
+p.Gln1143X	Ts	1	DMD	c.3427C>T
+p.Glu1150X	Tv	1	DMD	c.3448G>T
+p.Glu1157X	Tv	1	DMD	c.3469G>T
+p.Ser1167X	Tv	1	DMD	c.3500C>G
+p.Trp1172X	Ts	1	DMD	c.3516G>A
+p.Glu1179X	Tv	2	DMD	c.3535G>T
+p.Glu1186X	Tv	1	DMD	c.3556G>T
+p.Lys1188X	Tv	2	DMD	c.3562A>T
+p.Gln1194X	Ts	3	DMD	c.3580C>T
+p.Glu1205X	Tv	1	DMD	c.3613G>T
+p.Gln1208X	Ts	2	DMD	c.3622C>T
+p.Gln1248X	Ts	1	DMD	c.3742C>T
+p.Trp1249X	Ts	1	DMD	c.3746G>A
+p.Trp1268X	Ts	1	DMD	c.3804G>A
+p.Gln1362X	Ts	1	DMD	c.4084C>T
+p.Gln1367X	Ts	3	DMD	c.4099C>T
+p.Gln1370X	Ts	2	DMD	c.4108C>T
+p.Gln1373X	Ts	1	DMD	c.4117C>T
+p.Glu1376X	Tv	2	DMD	c.4126G>T
+p.Gln1383X	Ts	1	DMD	c.4147C>T
+p.Lys1400X	Tv	1	DMD	c.4198A>T
+p.Gln1411X	Ts	1	DMD	c.4231C>T
+p.Gln1438X	Ts	1	DMD	c.4312C>T
+p.Gln1452X	Ts	1	DMD	c.4354C>T
+p.Arg1459X	Ts	5	DMD	c.4375C>T
+p.Gln1462X	Ts	1	DMD	c.4384C>T
+p.Gln1472X	Ts	1	DMD	c.4414C>T
+p.Gln1495X	Ts	2	DMD	c.4483C>T
+p.Gln1499X	Ts	2	DMD	c.4495C>T
+p.Ser1500X	Tv	1	DMD	c.4499C>A
+p.Gln1501X	Ts	3	DMD	c.4501C>T
+p.Tyr1509X	Tv	1	DMD	c.4527T>A
+p.Glu1514X	Tv	1	DMD	c.4540G>T
+p.Lys1524X	Tv	1	DMD	c.4570A>T
+p.Gln1531X	Ts	2	DMD	c.4591C>T
+p.Gln1534X	Ts	3	DMD	c.4600C>T
+p.Glu1543X	Tv	2	DMD	c.4627G>T
+p.Gly1556X	Tv	1	DMD	c.4666G>T
+p.Gln1564X	Ts	2	DMD	c.4690C>T
+p.Gln1565X	Ts	1	DMD	c.4693C>T
+p.Lys1568X	Tv	1	DMD	c.4702A>T
+p.Lys1571X	Tv	2	DMD	c.4711A>T
+p.Lys1575X	Tv	1	DMD	c.4723A>T
+p.Arg1577X	Ts	10	DMD	c.4729C>T
+p.Glu1579X	Tv	1	DMD	c.4735G>T
+p.Trp1586X	Ts	1	DMD	c.4758G>A
+p.Glu1593X	Tv	1	DMD	c.4777G>T
+p.Lys1615X	Tv	3	DMD	c.4843A>T
+p.Gln1618X	Ts	3	DMD	c.4852C>T
+p.Gln1624X	Ts	2	DMD	c.4870C>T
+p.Lys1652X	Tv	2	DMD	c.4954A>T
+p.Arg1666X	Ts	11	DMD	c.4996C>T
+p.Leu1674X	Tv	1	DMD	c.5021T>A
+p.Glu1682X	Tv	1	DMD	c.5044G>T
+p.Trp1694X	Ts	2	DMD	c.5082G>A
+p.Gln1697X	Ts	1	DMD	c.5089C>T
+p.Ser1705X	Tv	1	DMD	c.5114C>G
+p.Gln1711X	Ts	3	DMD	c.5131C>T
+p.Leu1720X	Tv	1	DMD	c.5159T>G
+p.Glu1723X	Tv	1	DMD	c.5167G>T
+p.Gln1737X	Ts	1	DMD	c.5209C>T
+p.Leu1752X	Tv	2	DMD	c.5255T>G
+p.Arg1770X	Tv	1	DMD	c.5308A>T
+p.Gln1785X	Ts	1	DMD	c.5353C>T
+p.Ser1788X	Tv	2	DMD	c.5363C>G
+p.Glu1826X	Tv	2	DMD	c.5476G>T
+p.Gln1829X	Ts	1	DMD	c.5485C>T
+p.Gln1835X	Ts	2	DMD	c.5503C>T
+p.Arg1844X	Tv	4	DMD	c.5530A>T
+p.Glu1845X	Tv	1	DMD	c.5533G>T
+p.Gln1851X	Ts	4	DMD	c.5551C>T
+p.Gln1852X	Ts	1	DMD	c.5554C>T
+p.Gln1855X	Ts	2	DMD	c.5563C>T
+p.Gln1867X	Ts	1	DMD	c.5599C>T
+p.Arg1868X	Tv	1	DMD	c.5602A>T
+p.Lys1870X	Tv	2	DMD	c.5608A>T
+p.Glu1874X	Tv	1	DMD	c.5620G>T
+p.Trp1879X	Ts	1	DMD	c.5637G>A
+p.Tyr1882X	Tv	1	DMD	c.5646C>A
+p.Tyr1882X	Tv	1	DMD	c.5646C>G
+p.Gln1885X	Ts	1	DMD	c.5653C>T
+p.Gln1920X	Ts	1	DMD	c.5758C>T
+p.Glu1924X	Tv	1	DMD	c.5770G>T
+p.Glu1946X	Tv	1	DMD	c.5836G>T
+p.Gln1949X	Ts	1	DMD	c.5845C>T
+p.Trp1956X	Ts	1	DMD	c.5868G>A
+p.Glu1958X	Tv	1	DMD	c.5872G>T
+p.Glu1960X	Tv	2	DMD	c.5878G>T
+p.Arg1967X	Ts	9	DMD	c.5899C>T
+p.Gln1973X	Ts	2	DMD	c.5917C>T
+p.Tyr1995X	Tv	1	DMD	c.5985T>G
+p.Cys2024X	Tv	1	DMD	c.6072T>A
+p.Gln2046X	Ts	1	DMD	c.6136C>T
+p.Gln2075X	Ts	1	DMD	c.6223C>T
+p.Gln2080X	Ts	1	DMD	c.6238C>T
+p.Gln2084X	Ts	1	DMD	c.6250C>T
+p.Trp2085X	Ts	2	DMD	c.6255G>A
+p.Tyr2092X	Tv	1	DMD	c.6276C>G
+p.Arg2095X	Ts	8	DMD	c.6283C>T
+p.Arg2098X	Ts	7	DMD	c.6292C>T
+p.Lys2114X	Tv	1	DMD	c.6340A>T
+p.Gln2118X	Ts	4	DMD	c.6352C>T
+p.Trp2119X	Ts	1	DMD	c.6356G>A
+p.Glu2122X	Tv	1	DMD	c.6364G>T
+p.Gln2125X	Ts	1	DMD	c.6373C>T
+p.Tyr2141X	Tv	1	DMD	c.6423C>A
+p.Tyr2141X	Tv	1	DMD	c.6423C>G
+p.Tyr2144X	Tv	1	DMD	c.6432T>A
+p.Lys2146X	Tv	1	DMD	c.6436A>T
+p.Glu2147X	Tv	1	DMD	c.6439G>T
+p.Glu2167X	Tv	1	DMD	c.6499G>T
+p.Glu2168X	Tv	1	DMD	c.6502G>T
+p.Lys2184X	Tv	1	DMD	c.6550A>T
+p.Leu2220X	Tv	2	DMD	c.6659T>A
+p.Leu2220X	Tv	1	DMD	c.6659T>G
+p.Trp2226X	Ts	2	DMD	c.6677G>A
+p.Gln2245X	Ts	1	DMD	c.6733C>T
+p.Glu2248X	Tv	1	DMD	c.6742G>T
+p.Lys2294X	Tv	1	DMD	c.6880A>T
+p.Trp2302X	Ts	1	DMD	c.6905G>A
+p.Trp2302X	Ts	1	DMD	c.6906G>A
+p.Glu2317X	Tv	1	DMD	c.6949G>T
+p.Gln2325X	Ts	2	DMD	c.6973C>T
+p.Gln2336X	Ts	1	DMD	c.7006C>T
+p.Leu2337X	Tv	1	DMD	c.7010T>G
+p.Trp2343X	Ts	1	DMD	c.7028G>A
+p.Trp2343X	Ts	1	DMD	c.7029G>A
+p.Trp2410X	Ts	1	DMD	c.7229G>A
+p.Glu2460X	Tv	1	DMD	c.7378G>T
+p.Gln2491X	Ts	2	DMD	c.7471C>T
+p.Gln2522X	Ts	2	DMD	c.7564C>T
+p.Gln2526X	Ts	1	DMD	c.7576C>T
+p.Gln2544X	Ts	1	DMD	c.7630C>T
+p.Arg2553X	Ts	12	DMD	c.7657C>T
+p.Gln2558X	Ts	1	DMD	c.7672C>T
+p.Glu2566X	Tv	1	DMD	c.7696G>T
+p.Leu2579X	Tv	1	DMD	c.7736T>A
+p.Leu2579X	Tv	1	DMD	c.7736T>G
+p.Trp2585X	Ts	1	DMD	c.7755G>A
+p.Ser2605X	Tv	1	DMD	c.7814C>G
+p.Gln2625X	Ts	1	DMD	c.7873C>T
+p.Gln2632X	Ts	1	DMD	c.7894C>T
+p.Trp2670X	Ts	4	DMD	c.8009G>A
+p.Trp2670X	Ts	1	DMD	c.8010G>A
+p.Arg2680X	Ts	7	DMD	c.8038C>T
+p.Glu2685X	Tv	2	DMD	c.8053G>T
+p.Gln2692X	Ts	1	DMD	c.8074C>T
+p.Lys2721X	Tv	1	DMD	c.8161A>T
+p.Glu2726X	Tv	1	DMD	c.8176G>T
+p.Lys2732X	Tv	1	DMD	c.8194A>T
+p.Trp2738X	Ts	1	DMD	c.8214G>A
+p.Gln2742X	Ts	1	DMD	c.8224C>T
+p.Glu2767X	Tv	1	DMD	c.8299G>T
+p.Lys2792X	Tv	1	DMD	c.8374A>T
+p.Gln2806X	Ts	1	DMD	c.8416C>T
+p.Trp2807X	Ts	2	DMD	c.8420G>A
+p.Gln2815X	Ts	1	DMD	c.8443C>T
+p.Trp2820X	Ts	1	DMD	c.8459G>A
+p.Glu2827X	Tv	1	DMD	c.8479G>T
+p.Gln2831X	Ts	1	DMD	c.8491C>T
+p.Glu2854X	Tv	1	DMD	c.8560G>T
+p.Arg2870X	Ts	12	DMD	c.8608C>T
+p.Arg2905X	Ts	5	DMD	c.8713C>T
+p.Gln2907X	Ts	1	DMD	c.8719C>T
+p.Glu2910X	Tv	1	DMD	c.8728G>T
+p.Trp2915X	Ts	1	DMD	c.8745G>A
+p.Trp2925X	Ts	2	DMD	c.8775G>A
+p.Gln2926X	Ts	1	DMD	c.8776C>T
+p.Glu2931X	Tv	1	DMD	c.8791G>T
+p.Gln2937X	Ts	1	DMD	c.8809C>T
+p.Gln2940X	Ts	1	DMD	c.8818C>T
+p.Gln2972X	Ts	1	DMD	c.8914C>T
+p.Glu2976X	Tv	1	DMD	c.8926G>T
+p.Arg2982X	Ts	8	DMD	c.8944C>T
+p.Gly2983X	Tv	2	DMD	c.8947G>T
+p.Arg3034X	Ts	8	DMD	c.9100C>T
+p.Gln3050X	Ts	1	DMD	c.9148C>T
+p.Trp3061X	Ts	1	DMD	c.9182G>A
+p.Trp3061X	Ts	1	DMD	c.9183G>A
+p.Tyr3072X	Tv	1	DMD	c.9216C>A
+p.Tyr3072X	Tv	1	DMD	c.9216C>G
+p.Gln3079X	Ts	1	DMD	c.9235C>T
+p.Tyr3092X	Tv	1	DMD	c.9276C>A
+p.Arg3113X	Ts	4	DMD	c.9337C>T
+p.Gln3116X	Ts	2	DMD	c.9346C>T
+p.Gln3135X	Ts	3	DMD	c.9403C>T
+p.Gln3149X	Ts	2	DMD	c.9445C>T
+p.Cys3174X	Tv	1	DMD	c.9522C>A
+p.Arg3190X	Ts	13	DMD	c.9568C>T
+p.Gln3221X	Ts	1	DMD	c.9661C>T
+p.Gln3231X	Ts	1	DMD	c.9691C>T
+p.Glu3250X	Tv	1	DMD	c.9748G>T
+p.Trp3284X	Ts	1	DMD	c.9851G>A
+p.Gln3290X	Ts	1	DMD	c.9868C>T
+p.Gln3310X	Ts	2	DMD	c.9928C>T
+p.Cys3316X	Tv	1	DMD	c.9948C>A
+p.Arg3345X	Ts	7	DMD	c.10033C>T
+p.Glu3358X	Tv	1	DMD	c.10072G>T
+p.Ser3365X	Tv	2	DMD	c.10094C>G
+p.Arg3370X	Ts	15	DMD	c.10108C>T
+p.Lys3379X	Tv	1	DMD	c.10135A>T
+p.Arg3381X	Ts	23	DMD	c.10141C>T
+p.Lys3383X	Tv	1	DMD	c.10147A>T
+p.Arg3391X	Ts	22	DMD	c.10171C>T
+p.Tyr3440X	Tv	1	DMD	c.10320T>A
+p.Tyr3475X	Tv	1	DMD	c.10425C>A
+p.Tyr3524X	Tv	1	DMD	c.10572T>A
+p.Gln3530X	Ts	1	DMD	c.10588C>T
+p.Gln3551X	Ts	1	DMD	c.10651C>T
+p.Ser3637X	Tv	2	DMD	c.10910C>A
