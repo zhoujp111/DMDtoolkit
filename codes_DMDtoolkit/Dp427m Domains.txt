@@ -1,0 +1,35 @@
+domains	aa_start	aa_end
+CH	16	119
+CH	135	240
+hinge 1	253	327
+repeat 1	337	447
+repeat 2	448	556
+repeat 3	557	667
+hinge 2	668	717
+repeat 4	718	828
+repeat 5	829	934
+repeat 6	935	1045
+repeat 7	1046	1154
+repeat 8	1155	1263
+repeat 9	1264	1367
+repeat 10	1368	1463
+repeat 11	1461	1568
+repeat 12	1569	1676
+repeat 13	1677	1778
+repeat 14	1779	1874
+repeat 15	1875	1973
+repeat 16	1992	2101
+repeat 17	2102	2208
+repeat 18	2209	2318
+repeat 19	2319	2423
+hinge 3	2424	2470
+repeat 20	2471	2577
+repeat 21	2578	2686
+repeat 22	2687	2802
+repeat 23	2803	2931
+repeat 24	2932	3040
+hinge 4	3014	3112
+WW	3059	3088
+EF-hand_2	3087	3207
+EF-hand_3	3211	3302
+ZZ_dystrophin	3311	3359
