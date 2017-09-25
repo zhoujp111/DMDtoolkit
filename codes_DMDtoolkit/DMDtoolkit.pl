@@ -182,7 +182,7 @@ sub main_pros{
 		$_ =~ s/^\s+|\s+$//g;
 		print OUT "$_\t";
 		my @array = split(/\t/,$_);
-		my @array2 = split(/, |,|£¬|; |;/,$array[4]);
+		my @array2 = split(/, |,|Â£Â¬|; |;/,$array[4]);
 		print OUT2 join("\t",@array[0..3],join("; ",@array2))."\t";
 		
 		for (my $i=0; $i<=$#array2; $i++){
@@ -454,7 +454,7 @@ sub fs_rule{
 		}else{
 			print OUT join("\t", @array, "-")."\n";
 		}
-		
+	}	
 	close IN or die "$!";
 	close OUT or die "$!";
 
